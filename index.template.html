@@ -242,6 +242,9 @@
   .btn.danger{background:var(--bad); box-shadow:0 6px 18px color-mix(in srgb,var(--bad) 40%,transparent)}
 
   .hidden{display:none !important}
+  /* during a live round: pin to the top, no scrolling anywhere */
+  html.locked{overflow:hidden; height:100%}
+  body.locked{position:fixed; inset:0; overflow:hidden; touch-action:none; overscroll-behavior:none}
   footer.foot{color:var(--muted); font-size:12px; text-align:center; margin-top:2px}
   a{color:var(--accent)}
 </style>
@@ -671,6 +674,7 @@
     $('playScreen').classList.add('hidden');
     $('overScreen').classList.add('hidden');
     $('startScreen').classList.remove('hidden');
+    lockScroll(false);
     window.scrollTo(0,0);
     applyLang();
   }
@@ -782,6 +786,7 @@
     $('startScreen').classList.add('hidden');
     $('overScreen').classList.add('hidden');
     $('playScreen').classList.remove('hidden');
+    lockScroll(true);
     nextFamily();
     cancelAnimationFrame(raf); raf=requestAnimationFrame(tick);
   }
@@ -965,6 +970,7 @@
     renderReview();
     $('playScreen').classList.add('hidden');
     $('overScreen').classList.remove('hidden');
+    lockScroll(false);
     window.scrollTo(0,0);                        // show the results from the top
   }
 
@@ -1021,7 +1027,7 @@
   const withNav = fn => ()=>{ Sound.nav(); fn(); };
   $('startBtn').onclick = withNav(()=>start(chosen));
   $('againBtn').onclick = withNav(()=>start(chosen));
-  $('homeBtn').onclick  = withNav(()=>{ $('overScreen').classList.add('hidden'); refreshStartBest(); $('startScreen').classList.remove('hidden'); window.scrollTo(0,0); });
+  $('homeBtn').onclick  = withNav(()=>{ lockScroll(false); $('overScreen').classList.add('hidden'); refreshStartBest(); $('startScreen').classList.remove('hidden'); window.scrollTo(0,0); });
   $('skipBtn').onclick  = skipBtnClick;   // skip, or (with no skips left) open the give-up dialog
   $('muteBtn').onclick  = ()=>{ const m=!Sound.get().muted; Sound.set({muted:m}); $('muteBtn').textContent=m?'🔇':'🔊'; };
   $('langBtn').onclick  = ()=>{ Sound.nav(); setLang(LANG==='en'?'es':'en'); };
@@ -1051,6 +1057,16 @@
     const dark = t==='dark' || (t!=='light' && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches);
     m.setAttribute('content', dark ? '#000000' : '#f2f2f7');
   }
+
+  // Pin the round to the top and make it unscrollable (even when the keyboard opens).
+  function lockScroll(on){
+    document.documentElement.classList.toggle('locked', on);
+    document.body.classList.toggle('locked', on);
+    if(on) window.scrollTo(0,0);
+  }
+  const inPlay = ()=> !$('playScreen').classList.contains('hidden');
+  window.addEventListener('scroll', ()=>{ if(inPlay()) window.scrollTo(0,0); }, {passive:true});
+  document.addEventListener('touchmove', e=>{ if(inPlay()) e.preventDefault(); }, {passive:false});
 
   // ---------- go ----------
   // never restore a previous scroll position — the page always opens at the top
