@@ -638,6 +638,7 @@
     $('playScreen').classList.add('hidden');
     $('overScreen').classList.add('hidden');
     $('startScreen').classList.remove('hidden');
+    window.scrollTo(0,0);
     applyLang();
   }
 
@@ -706,7 +707,8 @@
     $('revealBanner').classList.add('hidden');
     renderFamily();
     $('answer').value='';
-    $('answer').focus();
+    window.scrollTo(0,0);                        // always show the new family from the top
+    $('answer').focus({preventScroll:true});
   }
 
   // snapshot the current family (with which words were found) into the history
@@ -827,7 +829,7 @@
       if(cfg.wrong>0){ timeLeft=Math.max(0,timeLeft-cfg.wrong); }
       const inp=$('answer'); inp.classList.add('shake');
       setTimeout(()=>inp.classList.remove('shake'),300);
-      $('answer').select();
+      inp.value=''; inp.focus({preventScroll:true});   // clear the field so you retype from zero
     }
   }
 
@@ -930,6 +932,7 @@
     renderReview();
     $('playScreen').classList.add('hidden');
     $('overScreen').classList.remove('hidden');
+    window.scrollTo(0,0);                        // show the results from the top
   }
 
   // full results for every family of the round: solved, skipped and the failed one
@@ -985,7 +988,7 @@
   const withNav = fn => ()=>{ Sound.nav(); fn(); };
   $('startBtn').onclick = withNav(()=>start(chosen));
   $('againBtn').onclick = withNav(()=>start(chosen));
-  $('homeBtn').onclick  = withNav(()=>{ $('overScreen').classList.add('hidden'); refreshStartBest(); $('startScreen').classList.remove('hidden'); });
+  $('homeBtn').onclick  = withNav(()=>{ $('overScreen').classList.add('hidden'); refreshStartBest(); $('startScreen').classList.remove('hidden'); window.scrollTo(0,0); });
   $('skipBtn').onclick  = skipBtnClick;   // skip, or (with no skips left) open the give-up dialog
   $('muteBtn').onclick  = ()=>{ const m=!Sound.get().muted; Sound.set({muted:m}); $('muteBtn').textContent=m?'🔇':'🔊'; };
   $('langBtn').onclick  = ()=>{ Sound.nav(); setLang(LANG==='en'?'es':'en'); };
@@ -1017,6 +1020,9 @@
   }
 
   // ---------- go ----------
+  // never restore a previous scroll position — the page always opens at the top
+  if('scrollRestoration' in window.history){ window.history.scrollRestoration='manual'; }
+  window.scrollTo(0,0);
   applyLang();
   updateThemeColor();
 })();
