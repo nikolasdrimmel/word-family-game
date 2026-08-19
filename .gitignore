@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# OS / OneDrive
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Editors
+.vscode/
+.idea/
+*.swp

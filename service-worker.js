@@ -1,7 +1,11 @@
 /* Word Family Rush — offline service worker.
-   The game is one self-contained file, so caching index.html (plus the icons
-   and manifest) is enough to run with no network at all once installed. */
-const CACHE = 'wfr-v1';
+   Strategy:
+     - HTML page  -> network-first: always load the newest version when online,
+                     fall back to the cached copy when offline. This means every
+                     deploy shows up on the phone automatically, with no version
+                     bump needed.
+     - icons etc. -> cache-first: fast, they rarely change. */
+const CACHE = 'wfr-v3';
 const ASSETS = [
   './',
   './index.html',
@@ -11,7 +15,6 @@ const ASSETS = [
   './apple-touch-icon.png'
 ];
 
-// Precache — resilient: a single missing file won't abort the install.
 self.addEventListener('install', event => {
   event.waitUntil((async () => {
     const cache = await caches.open(CACHE);
@@ -20,7 +23,6 @@ self.addEventListener('install', event => {
   })());
 });
 
-// Drop old caches on activate.
 self.addEventListener('activate', event => {
   event.waitUntil((async () => {
     const keys = await caches.keys();
@@ -29,22 +31,42 @@ self.addEventListener('activate', event => {
   })());
 });
 
-// Cache-first, fall back to network, then to the cached game for navigations.
 self.addEventListener('fetch', event => {
   const req = event.request;
   if (req.method !== 'GET') return;
+
+  const isHTML = req.mode === 'navigate' ||
+    (req.headers.get('accept') || '').includes('text/html');
+
+  if (isHTML) {
+    // network-first: freshest page when online, cached page when offline
+    event.respondWith((async () => {
+      try {
+        const res = await fetch(req);
+        const cache = await caches.open(CACHE);
+        cache.put(req, res.clone()).catch(() => {});
+        cache.put('./index.html', res.clone()).catch(() => {});
+        return res;
+      } catch (e) {
+        return (await caches.match(req)) ||
+               (await caches.match('./index.html')) ||
+               Response.error();
+      }
+    })());
+    return;
+  }
+
+  // cache-first for everything else
   event.respondWith((async () => {
-    const cached = await caches.match(req);
-    if (cached) return cached;
+    const hit = await caches.match(req);
+    if (hit) return hit;
     try {
       const res = await fetch(req);
-      const copy = res.clone();
-      caches.open(CACHE).then(c => c.put(req, copy)).catch(() => {});
+      const cache = await caches.open(CACHE);
+      cache.put(req, res.clone()).catch(() => {});
       return res;
     } catch (e) {
-      const fallback = await caches.match('./index.html');
-      if (fallback) return fallback;
-      throw e;
+      return hit || Response.error();
     }
   })());
 });
