@@ -5,14 +5,15 @@
                      deploy shows up on the phone automatically, with no version
                      bump needed.
      - icons etc. -> cache-first: fast, they rarely change. */
-const CACHE = 'wfr-v3';
+const CACHE = 'wfr-v4';
 const ASSETS = [
   './',
   './index.html',
   './manifest.webmanifest',
   './icon-192.png',
   './icon-512.png',
-  './apple-touch-icon.png'
+  './apple-touch-icon.png',
+  './soundtrack.m4a'
 ];
 
 self.addEventListener('install', event => {
