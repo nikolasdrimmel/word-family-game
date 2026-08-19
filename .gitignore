@@ -12,3 +12,7 @@ desktop.ini
 .vscode/
 .idea/
 *.swp
+
+# Audio: only the game's soundtrack is versioned (keeps the original messy-named file local)
+*.m4a
+!soundtrack.m4a
