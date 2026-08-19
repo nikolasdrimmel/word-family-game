@@ -1,0 +1,528 @@
+# Word Family Rush — database (English, B2–C1)
+# format:  word;pos;gloss[;alt,alt] | word;pos;gloss  ...
+# pos:  n=noun  v=verb  adj=adjective  adv=adverb   (combine with / e.g. n/v)
+# The FIRST word on a line is the seed shown to the player.
+
+create;v;make something new | creation;n;the making of something new | creative;adj;full of new ideas | creativity;n;skill at making new things | creator;n;the maker of something | creatively;adv;with fresh imagination
+nation;n;a country and its people | national;adj;of a whole country | nationality;n;the country one belongs to | nationalism;n;strong pride in one's country | nationalist;n;someone who backs their own country strongly | nationalise;v;bring under state control;nationalize | nationally;adv;across the whole country
+beauty;n;the quality of being lovely to see | beautiful;adj;pleasing to look at | beautifully;adv;in a lovely way | beautify;v;make lovely to look at
+compete;v;take part in a contest | competition;n;a contest or rivalry | competitor;n;a rival in a contest | competitive;adj;eager to win a contest | competitively;adv;in a rival, contest-driven way
+strong;adj;having great power | strength;n;physical power | strengthen;v;make more powerful | strongly;adv;with great force
+decide;v;reach a choice | decision;n;a choice that is made | decisive;adj;settling an issue quickly | decisively;adv;in a firm, settling way | indecisive;adj;unable to make up one's mind
+economy;n;a system of money and trade | economic;adj;relating to money and trade | economical;adj;careful with money or resources | economics;n;the study of money and trade | economist;n;an expert in money and trade | economise;v;spend less;economize | economically;adv;in a money-saving way
+science;n;the study of the natural world | scientific;adj;based on tested knowledge | scientist;n;a researcher of the natural world | scientifically;adv;in a tested, methodical way
+please;v;give satisfaction to | pleasant;adj;enjoyable and agreeable | pleasure;n;a feeling of enjoyment | pleasing;adj;giving satisfaction | pleasantly;adv;in an agreeable way | unpleasant;adj;not enjoyable
+govern;v;rule a country or region | government;n;the body that rules a country | governor;n;the head of a region or state | governance;n;the way a country is run | governmental;adj;relating to how a country is run
+imagine;v;form a mental picture | imagination;n;the power to picture things in the mind | imaginative;adj;full of new ideas | imaginary;adj;existing only in the mind | imaginable;adj;able to be pictured in the mind | unimaginable;adj;too extreme to picture in the mind
+succeed;v;achieve an aim | success;n;the achievement of an aim | successful;adj;reaching a desired result | successfully;adv;with a good result | succession;n;a sequence or the act of following | successor;n;a person who follows another | successive;adj;following one after another
+produce;v;make or manufacture | product;n;a thing that is made | production;n;the process of making | productive;adj;making a great deal | productivity;n;the rate of output | producer;n;one who makes goods | productively;adv;in a way that makes a lot
+technology;n;applied scientific knowledge | technological;adj;relating to advanced machines | technologically;adv;in terms of advanced machines | technologist;n;an expert in advanced machines
+
+# ---- Batch A: high-frequency verbs and their families ----
+act;v;do something | action;n;the process of doing | active;adj;busy and full of energy | activity;n;something done | actor;n;a performer on stage or screen | actively;adv;in a busy, energetic way | activate;v;switch on or set going | activist;n;one who campaigns
+add;v;join to make more | addition;n;the process of joining on | additional;adj;extra | additive;n;a substance mixed in | additionally;adv;as an extra thing
+agree;v;have the same opinion | agreement;n;a shared decision | agreeable;adj;pleasant or acceptable | disagree;v;have a different opinion | disagreement;n;a difference of opinion
+appear;v;come into view | appearance;n;the way something looks | apparent;adj;clearly obvious | apparently;adv;as it seems | disappear;v;go out of sight
+apply;v;put to use or request | application;n;a formal request or use | applicant;n;a person seeking a job or place | applicable;adj;relevant or appropriate | appliance;n;a household device
+argue;v;give reasons for or against | argument;n;a reason or dispute | arguable;adj;open to debate | arguably;adv;as one could reason
+assist;v;help someone | assistance;n;help given | assistant;n;a helper | assisted;adj;done with help
+attract;v;draw interest | attraction;n;something that draws interest | attractive;adj;pleasing or appealing | attractively;adv;in an appealing way | attractiveness;n;the quality of being appealing
+believe;v;accept as true | belief;n;something accepted as true | believable;adj;easy to accept as true | believer;n;one who holds a faith | unbelievable;adj;too surprising to accept as true
+benefit;v;gain an advantage | beneficial;adj;giving an advantage | beneficiary;n;one who gains from something | benefactor;n;one who gives help
+care;v;feel concern | careful;adj;paying attention | careless;adj;not paying attention | carefully;adv;with close attention | carelessly;adv;without proper attention | caring;adj;showing concern
+centre;n;the middle;center | central;adj;in or from the middle | centralise;v;bring under one control;centralize | centrally;adv;in a middle position
+certain;adj;sure or definite | certainty;n;the state of being sure | certainly;adv;without doubt | uncertain;adj;not sure | uncertainty;n;the state of being unsure
+class;n;a group or category | classic;adj;of lasting quality | classical;adj;traditional in style | classify;v;arrange into groups | classification;n;the sorting into groups
+clear;adj;easy to see or understand | clarity;n;the quality of being easy to see | clarify;v;make easy to understand | clearly;adv;in a way easy to see | clearance;n;official permission to proceed
+collect;v;gather together | collection;n;a set of gathered things | collective;adj;shared by a group | collector;n;one who gathers a set of things | collectively;adv;as a group
+comfort;v;ease distress | comfortable;adj;giving ease | comfortably;adv;in an easy, relaxed way | discomfort;n;a lack of ease | uncomfortable;adj;not giving ease
+communicate;v;share information | communication;n;the sharing of information | communicative;adj;willing to talk | communicator;n;one skilled at sharing messages
+compare;v;examine similarities | comparison;n;the act of weighing likenesses | comparable;adj;similar enough to weigh together | comparative;adj;based on weighing differences | comparatively;adv;when weighed against others
+complete;v;finish | completion;n;the act of finishing | completely;adv;totally | incomplete;adj;not finished
+connect;v;join together | connection;n;a link | connective;adj;serving to link things | disconnect;v;break a link | interconnected;adj;linked together
+consider;v;think carefully about | consideration;n;careful thought | considerable;adj;large in amount | considerate;adj;thoughtful of others | considerably;adv;by a large amount
+construct;v;build | construction;n;the act of building | constructive;adj;helpful and positive | constructor;n;one who builds | reconstruct;v;build again
+continue;v;keep going | continuation;n;the act of going on | continual;adj;happening repeatedly | continuous;adj;without interruption | continuously;adv;without stopping | continuity;n;an unbroken flow
+contribute;v;give a share | contribution;n;something given | contributor;n;one who gives a share | contributory;adj;helping to cause
+decorate;v;make more attractive | decoration;n;something added for beauty | decorative;adj;serving to adorn | decorator;n;one who adorns rooms
+defend;v;protect from attack | defence;n;protection;defense | defensive;adj;used for protection | defender;n;one who guards against attack | defenceless;adj;without protection;defenseless
+define;v;state the meaning | definition;n;a statement of meaning | definite;adj;clearly stated | definitely;adv;without doubt | indefinite;adj;not clearly fixed
+depend;v;rely on | dependence;n;the state of relying | dependent;adj;relying on | dependable;adj;able to be relied on | independent;adj;not relying on others | independence;n;freedom from control
+describe;v;give an account of | description;n;an account | descriptive;adj;giving a vivid account | indescribable;adj;too extreme to put into words
+develop;v;grow or improve | development;n;the process of growth | developer;n;one who builds or improves | developmental;adj;relating to growth | undeveloped;adj;not yet built up or grown
+differ;v;be unlike | difference;n;a way of being unlike | different;adj;not the same | differently;adv;in another way | differentiate;v;tell one thing from another
+direct;v;guide or manage | direction;n;a course or guidance | director;n;the head who guides a project | directly;adv;in a straight way | indirect;adj;not straight or immediate
+discover;v;find for the first time | discovery;n;something found | discoverer;n;the first to find something | undiscovered;adj;not yet found
+distribute;v;share out | distribution;n;the act of sharing out | distributor;n;one who hands out goods | redistribute;v;share out again
+educate;v;teach | education;n;the process of teaching | educational;adj;relating to teaching | educator;n;a teacher | educated;adj;having good schooling
+elect;v;choose by vote | election;n;a formal vote | elective;adj;chosen or optional | electoral;adj;relating to voting | electorate;n;all the voters
+employ;v;give work to | employment;n;paid work | employer;n;one who hires workers | employee;n;a hired worker | unemployed;adj;without work | unemployment;n;the state of being jobless
+enjoy;v;take pleasure in | enjoyment;n;pleasure | enjoyable;adj;giving pleasure | enjoyably;adv;in a pleasing way
+examine;v;inspect closely | examination;n;a close inspection | examiner;n;one who tests others | examinee;n;one being tested
+excite;v;stir up feeling | excitement;n;a feeling of eagerness | exciting;adj;stirring up strong feeling | excited;adj;feeling eager | excitable;adj;easily stirred up
+expect;v;think likely | expectation;n;a belief about the future | expectant;adj;hopeful or awaiting | expectancy;n;the state of looking ahead to something | unexpected;adj;coming as a surprise
+explain;v;make clear | explanation;n;a statement that clarifies | explanatory;adj;serving to make clear | unexplained;adj;without a known cause
+explore;v;travel to discover | exploration;n;the search of unknown places | explorer;n;one who travels the unknown | exploratory;adj;done to search out
+express;v;convey a thought | expression;n;the act of conveying | expressive;adj;showing feeling | expressively;adv;in a vivid, telling way | inexpressible;adj;too strong to put in words
+fail;v;not succeed | failure;n;a lack of success | failing;n;a weakness | unfailing;adj;never letting one down
+fame;n;the state of being well known | famous;adj;widely known | famously;adv;in a well-known way | infamous;adj;well known for something bad
+force;v;compel | forceful;adj;strong and assertive | forcible;adj;done with physical power | forcibly;adv;by physical power | enforce;v;make sure a rule is obeyed
+form;v;shape or create | formation;n;the act of taking shape | formal;adj;following convention | formative;adj;shaping development | formless;adj;without a clear shape
+friend;n;a person you like | friendly;adj;kind and pleasant | friendship;n;a close bond between people | friendliness;n;kindness | unfriendly;adj;not kind | befriend;v;make a close bond with
+grow;v;increase in size | growth;n;the process of getting bigger | growing;adj;increasing | grower;n;one who raises crops | overgrown;adj;covered with too much plant life
+happy;adj;feeling joy | happiness;n;the state of joy | happily;adv;in a cheerful way | unhappy;adj;feeling sad | unhappiness;n;the state of sadness
+health;n;the state of the body | healthy;adj;in good bodily condition | healthily;adv;in a way that keeps the body well | unhealthy;adj;bad for the body | healthful;adj;promoting a strong body
+help;v;make easier for | helpful;adj;giving useful aid | helpless;adj;unable to act | helper;n;one who gives aid | helpfully;adv;in a way that gives aid | unhelpful;adj;giving no aid
+hope;v;wish for | hopeful;adj;full of positive expectation | hopeless;adj;without any expectation of good | hopefully;adv;with positive expectation | hopelessly;adv;with no expectation of good
+inform;v;give facts to someone | information;n;facts provided | informative;adj;giving useful facts | informant;n;one who supplies facts | informed;adj;having knowledge | uninformed;adj;lacking knowledge
+injure;v;cause harm to | injury;n;physical harm | injured;adj;having harm | uninjured;adj;without harm
+inspire;v;fill with an idea | inspiration;n;a stimulating influence | inspiring;adj;stirring the mind to act | inspirational;adj;stirring high feelings | inspired;adj;showing creativity
+intend;v;plan to do | intention;n;a plan or aim | intentional;adj;done on purpose | intentionally;adv;on purpose | unintentional;adj;not deliberate
+introduce;v;present for the first time | introduction;n;a first presentation | introductory;adj;serving as a beginning
+invent;v;create something new | invention;n;a new creation | inventive;adj;good at thinking up new things | inventor;n;one who thinks up new devices
+invest;v;put money to use | investment;n;money put to use | investor;n;one who puts money in for profit | reinvest;v;put profits back in
+invite;v;ask to come | invitation;n;a request to come | inviting;adj;attractive or tempting | uninvited;adj;not asked to come
+involve;v;include as a part | involvement;n;the state of taking part | involved;adj;taking part or complex | uninvolved;adj;not taking part
+know;v;have facts in the mind | knowledge;n;facts and understanding | knowledgeable;adj;well informed | known;adj;recognised | unknown;adj;not yet found out
+lead;v;guide or be first | leader;n;one who guides a group | leadership;n;the role of guiding a group | leading;adj;most important | mislead;v;guide in the wrong direction
+limit;v;set a boundary | limitation;n;a restriction | limited;adj;restricted | limitless;adj;without any bound | unlimited;adj;without restriction
+locate;v;find the position of | location;n;a place | local;adj;relating to a nearby area | locally;adv;in the nearby area | relocate;v;move to a new place
+manage;v;be in charge of | management;n;the running of a business | manager;n;one in charge | manageable;adj;able to be handled | unmanageable;adj;hard to control | managerial;adj;relating to running a business
+measure;v;find the size of | measurement;n;a size or amount | measurable;adj;able to be sized up | immeasurable;adj;too vast to size up
+memory;n;the ability to remember | memorable;adj;worth remembering | memorial;n;something honouring the dead | memorise;v;learn by heart;memorize | memorably;adv;in a way easy to recall
+move;v;change position | movement;n;an act of moving | movable;adj;able to be shifted | mover;n;one who shifts heavy loads | immovable;adj;impossible to shift
+nature;n;the physical world and its life | natural;adj;found in the physical world, not made by people | naturally;adv;without any human effort | naturalist;n;a student of plants and animals | unnatural;adj;against the usual order of things
+object;v;express opposition | objection;n;a statement of opposition | objective;adj;not influenced by feelings | objectively;adv;in an unbiased way | objector;n;one who speaks against something
+observe;v;watch carefully | observation;n;the act of watching | observer;n;one who watches closely | observant;adj;quick to notice | observable;adj;able to be seen
+occupy;v;fill or take up | occupation;n;a job or activity | occupant;n;one who lives in or uses a place | occupied;adj;in use | preoccupied;adj;lost in thought
+operate;v;work or control | operation;n;a planned working of something | operator;n;one who works a machine | operational;adj;ready for use | operative;adj;in force or working
+oppose;v;resist | opposition;n;resistance | opposite;adj;facing or contrary | opponent;n;one on the other side | opposing;adj;in conflict
+organise;v;arrange systematically;organize | organisation;n;an arranged group;organization | organiser;n;one who arranges events;organizer | organised;adj;well arranged;organized | disorganised;adj;not arranged;disorganized
+origin;n;the point of beginning | original;adj;first or new | originally;adv;at first | originate;v;begin | originality;n;the quality of being new
+own;v;possess | owner;n;one who holds something as property | ownership;n;legal right to property | disown;v;reject all ties to someone
+pay;v;give money for | payment;n;money given | payable;adj;due to be paid | payer;n;one who hands over money | repay;v;give money back
+perform;v;do a duty or put on a show | performance;n;a show before an audience | performer;n;one who acts or plays before others | outperform;v;do better than
+permit;v;allow | permission;n;consent | permissive;adj;allowing freedom | permissible;adj;allowed
+persuade;v;convince | persuasion;n;the act of convincing | persuasive;adj;good at convincing | persuasively;adv;in a convincing way | unpersuasive;adj;not convincing
+pollute;v;make dirty | pollution;n;harmful contamination | pollutant;n;a substance that dirties the air or water | polluter;n;one who dirties the environment | unpolluted;adj;clean
+populate;v;fill with people | population;n;the people of a place | popular;adj;liked by many | popularity;n;the state of being liked | populous;adj;having many people | unpopular;adj;not liked
+possess;v;have or own | possession;n;something owned | possessive;adj;wanting to keep for oneself | possessor;n;one who holds something
+
+# ---- Batch B: process, thought and change ----
+power;v;supply energy to | powerful;adj;having great force | powerless;adj;having no force or control | powerfully;adv;with great force | empower;v;give strength and control to
+practise;v;do a skill over and over to get better;practice | practical;adj;concerned with real use | practically;adv;almost entirely | practitioner;n;a professional | impractical;adj;not useful in real life
+predict;v;say what will happen | prediction;n;a forecast | predictable;adj;able to be foreseen | predictably;adv;as expected | unpredictable;adj;not able to be foreseen
+prepare;v;make ready | preparation;n;the act of making ready | preparatory;adj;done to get ready | prepared;adj;ready | unprepared;adj;not ready
+present;v;give or show | presentation;n;a talk shown to an audience | presenter;n;one who hosts a show | presence;n;the state of being there
+preserve;v;keep from harm | preservation;n;the act of keeping safe | preservative;n;a substance that keeps food fresh | preserver;n;one who keeps things safe
+press;v;push or urge | pressure;n;continuous force | pressing;adj;urgent | oppress;v;keep down by force
+pretend;v;act falsely | pretence;n;a false show;pretense | pretender;n;one who falsely claims a role | pretentious;adj;trying to impress
+prevent;v;stop from happening | prevention;n;the act of stopping | preventive;adj;serving to stop beforehand | preventable;adj;able to be avoided
+protect;v;keep safe | protection;n;the act of keeping safe | protective;adj;serving to keep from harm | protector;n;one who keeps others from harm | unprotected;adj;not kept safe
+prove;v;show to be true | proof;n;evidence of truth | proven;adj;shown to be true | disprove;v;show to be false
+provide;v;supply | provision;n;a supply or condition | provider;n;one who supplies | provisional;adj;temporary
+publish;v;bring a work out in print | publication;n;a printed work put on sale | publisher;n;a firm that brings out books | unpublished;adj;not yet printed
+punish;v;impose a penalty | punishment;n;a penalty | punishing;adj;harsh or exhausting | punishable;adj;liable to a penalty
+qualify;v;make or become fit | qualification;n;an official proof of ability | qualified;adj;officially able | unqualified;adj;lacking the needed training
+react;v;respond to | reaction;n;a response | reactive;adj;responding readily | reactor;n;a plant that produces nuclear energy | overreact;v;respond too strongly
+real;adj;actually existing | reality;n;the way things truly are | realistic;adj;true to life | really;adv;in fact | unreal;adj;not matching the true world | realism;n;an accurate view of things
+reason;n;a cause or the power to think | reasonable;adj;fair and sensible | reasoning;n;the process of thinking | reasonably;adv;in a fair way | unreasonable;adj;not sensible
+receive;v;get or accept | reception;n;the act of taking in guests or signals | receiver;n;one who takes what is sent | receptive;adj;willing to accept | recipient;n;one who is given something
+recognise;v;identify from before;recognize | recognition;n;the act of identifying | recognisable;adj;able to be identified;recognizable | unrecognisable;adj;impossible to identify;unrecognizable
+recommend;v;advise as good | recommendation;n;a suggestion of what is good | recommended;adj;advised
+record;v;set down for later | recording;n;a stored copy | recorder;n;a device that stores sound | unrecorded;adj;not set down
+reduce;v;make smaller | reduction;n;a decrease | reducible;adj;able to be made smaller | irreducible;adj;impossible to make smaller
+reflect;v;throw back or think | reflection;n;an image or careful thought | reflective;adj;thoughtful | reflector;n;a surface that throws back light
+reform;v;change for the better | reformation;n;a thorough change for the better | reformer;n;one who works to improve a system | reformed;adj;improved in behaviour
+refuse;v;say no to | refusal;n;the act of saying no | refused;adj;turned down
+register;v;record officially | registration;n;the act of recording | registrar;n;an official keeper of records | registry;n;a place for records
+regulate;v;control by rules | regulation;n;a rule | regulator;n;a body that sets and enforces rules | regulatory;adj;relating to official rules | deregulate;v;remove rules from
+relate;v;make or show a connection | relation;n;a connection | relationship;n;a connection or bond | relative;n;a family member | relatively;adv;in comparison | related;adj;connected
+relax;v;become less tense | relaxation;n;the state of being at ease | relaxing;adj;giving ease | relaxed;adj;free from tension
+rely;v;depend on | reliance;n;the state of depending | reliable;adj;able to be trusted | reliably;adv;in a dependable way | unreliable;adj;not able to be trusted
+remain;v;stay | remainder;n;the part left over | remaining;adj;still left | remains;n;what is left
+remember;v;keep in mind | remembrance;n;the act of keeping in mind | remembered;adj;kept in mind | misremember;v;recall wrongly
+remove;v;take away | removal;n;the act of taking away | removable;adj;able to be taken away | removed;adj;distant or taken away
+repeat;v;do again | repetition;n;the act of doing again | repetitive;adj;dull from being done over and over | repeated;adj;done many times | repeatedly;adv;again and again
+replace;v;put back or substitute | replacement;n;a substitute | replaceable;adj;able to be substituted | irreplaceable;adj;impossible to substitute
+report;v;give an account | reporter;n;one who gathers the news | reportedly;adv;according to what is said | unreported;adj;not made known
+represent;v;stand for | representation;n;the act of standing for | representative;n;one who stands for others | representational;adj;depicting reality | misrepresent;v;give a false account
+require;v;need | requirement;n;a need | required;adj;necessary | requisite;adj;necessary
+reserve;v;keep for later | reservation;n;a booking or doubt | reserved;adj;shy or set aside | reservoir;n;a store of water
+resist;v;oppose | resistance;n;the act of opposing | resistant;adj;able to withstand | resistor;n;a part that limits electric current | irresistible;adj;too tempting to hold back from
+resolve;v;settle firmly | resolution;n;a firm decision | resolute;adj;determined | resolved;adj;decided | unresolved;adj;not settled
+respect;v;admire | respectful;adj;showing regard | respectable;adj;worthy of high regard | respectively;adv;in the order given | disrespect;n;lack of regard
+respond;v;reply or react | response;n;a reply | responsive;adj;reacting readily | respondent;n;one who answers, esp. in a survey | responsiveness;n;the quality of reacting
+responsible;adj;in charge or accountable | responsibility;n;a duty | responsibly;adv;in a dependable way | irresponsible;adj;not accountable
+restore;v;bring back | restoration;n;the act of bringing back | restorative;adj;helping to bring back health | restorer;n;one who brings old things back to good state
+restrict;v;keep within limits | restriction;n;a limit | restrictive;adj;limiting | restricted;adj;limited | unrestricted;adj;without limits
+retire;v;stop working | retirement;n;the state of having stopped work | retiree;n;one who has left working life | retiring;adj;shy
+reveal;v;make known | revelation;n;a surprising disclosure | revealing;adj;showing much | unrevealed;adj;kept hidden
+revise;v;look over and change | revision;n;a changed, improved version | revised;adj;made different from an earlier draft | reviser;n;one who edits and changes text
+reward;v;give in return | rewarding;adj;giving satisfaction | rewarded;adj;given a return | unrewarded;adj;not given a return
+rule;v;govern | ruler;n;one who governs or a measuring stick | ruling;n;an official decision | unruly;adj;hard to control
+satisfy;v;meet a need | satisfaction;n;a feeling of fulfilment | satisfactory;adj;good enough | satisfying;adj;giving fulfilment | dissatisfied;adj;not content
+save;v;keep safe or store | saving;n;money kept | saviour;n;one who rescues;savior | lifesaving;adj;preventing death
+scare;v;frighten | scary;adj;frightening | scared;adj;frightened | scarily;adv;in a frightening way
+search;v;look for | searching;adj;examining closely | searcher;n;one who looks | searchable;adj;able to be looked through
+secure;v;make safe | security;n;safety | securely;adv;in a safe way | insecure;adj;not safe or unconfident | insecurity;n;a lack of confidence
+select;v;choose | selection;n;a choice | selective;adj;careful in choosing | selector;n;a control that picks an option | selectively;adv;by picking only some
+sense;v;perceive | sensible;adj;showing good judgement | sensitive;adj;quick to feel | sensory;adj;relating to sight, hearing and touch | senseless;adj;without meaning | sensitivity;n;quickness to feel or react
+separate;v;set apart | separation;n;the act of setting apart | separately;adv;on its own | inseparable;adj;impossible to part
+serve;v;work for or supply | service;n;help given to customers | servant;n;one who works in another's house | server;n;a computer that supplies data | servile;adj;too willing to obey
+settle;v;resolve or make a home | settlement;n;a place or an agreement | settler;n;one who makes a home | unsettled;adj;not resolved
+sign;v;write one's name | signature;n;a written name | signal;n;a sound or gesture that gives information | signatory;n;one who puts their name to a deal
+signify;v;stand as a mark of | significance;n;importance | significant;adj;important | significantly;adv;in an important way | insignificant;adj;not important
+simple;adj;easy or plain | simplicity;n;the quality of being plain | simplify;v;make easier | simply;adv;in a plain way | simplistic;adj;too plain to be true | oversimplify;v;make to seem too plain
+solve;v;find an answer | solution;n;an answer | solvable;adj;able to be worked out | unsolved;adj;without an answer | solver;n;one who works out puzzles
+special;adj;unusual or particular | specialise;v;focus on one area;specialize | specialist;n;an expert in one area | speciality;n;a field one is expert in;specialty | specially;adv;for a particular purpose
+specify;v;state exactly | specification;n;an exact statement | specific;adj;clearly defined | specifically;adv;in a precise way | unspecified;adj;not stated
+state;v;express in words | statement;n;a clear expression | stated;adj;clearly expressed | overstate;v;exaggerate | understate;v;express too weakly
+study;v;learn about | student;n;one who learns at a school | studious;adj;fond of learning | studied;adj;deliberate | studiously;adv;with careful attention
+suffer;v;experience pain | suffering;n;pain endured | sufferer;n;one who lives with pain or illness | insufferable;adj;too unpleasant to bear
+suggest;v;put forward an idea | suggestion;n;an idea put forward | suggestive;adj;hinting at something | suggestible;adj;easily influenced
+supply;v;provide | supplier;n;one who provides | supplied;adj;provided | undersupplied;adj;not given enough
+support;v;hold up or help | supporter;n;one who helps | supportive;adj;giving help | supportable;adj;able to be defended | unsupported;adj;without help
+suppose;v;assume to be true | supposition;n;an assumption | supposed;adj;believed to be | supposedly;adv;as is assumed
+surprise;v;cause wonder | surprising;adj;causing wonder | surprised;adj;feeling wonder | surprisingly;adv;in an unexpected way | unsurprising;adj;not unexpected
+survive;v;continue to live | survival;n;the act of staying alive | survivor;n;one who lives through danger | surviving;adj;still living
+sympathy;n;shared feeling of sorrow | sympathetic;adj;showing kind fellow feeling | sympathise;v;share another's sorrow;sympathize | sympathetically;adv;with kind fellow feeling | unsympathetic;adj;showing no fellow feeling
+teach;v;give knowledge | teacher;n;one who gives lessons | teaching;n;the work of giving lessons | teachable;adj;able to be taught
+tempt;v;try to attract | temptation;n;the urge to do wrong | tempting;adj;attractive | tempter;n;one who lures another into wrong
+terror;n;extreme fear | terrify;v;fill with fear | terrible;adj;very bad | terribly;adv;very badly | terrified;adj;very frightened
+test;v;examine or try | testing;adj;difficult | tester;n;one who checks that things work | testable;adj;able to be checked by trial | untested;adj;not yet tried
+thank;v;express gratitude | thankful;adj;grateful | thankless;adj;not appreciated | thankfully;adv;with gratitude | unthankful;adj;not grateful
+theory;n;a set of ideas explaining something | theoretical;adj;based on ideas | theorist;n;one who forms ideas to explain things | theoretically;adv;in idea rather than in practice | theorise;v;form ideas to explain something;theorize
+threat;n;a warning of harm | threaten;v;warn of harm | threatening;adj;suggesting harm | threatened;adj;at risk
+tolerate;v;allow or endure | tolerance;n;willingness to allow | tolerant;adj;willing to allow | tolerable;adj;bearable | intolerant;adj;unwilling to accept | intolerable;adj;unbearable
+trade;v;buy and sell | trader;n;one who buys and sells | trading;n;the act of buying and selling | tradesman;n;a skilled manual worker
+tradition;n;a long-held custom | traditional;adj;following custom | traditionally;adv;by custom | traditionalist;n;one who upholds custom | untraditional;adj;not following custom
+train;v;teach a skill | training;n;the process of teaching skills | trainer;n;one who coaches others | trainee;n;one learning a job | untrained;adj;without proper coaching
+transform;v;change completely | transformation;n;a complete change | transformative;adj;causing great change | transformer;n;a device that changes voltage
+translate;v;change into another language | translation;n;a text put into another language | translator;n;one who turns speech into another language | translatable;adj;able to be put into another language | untranslatable;adj;impossible to put into another language
+transport;v;carry from place to place | transportation;n;the act of carrying | transporter;n;a vehicle that carries | transportable;adj;able to be carried
+
+# ---- Batch C: academic / formal verbs ----
+acknowledge;v;accept the truth of | acknowledgement;n;the act of accepting;acknowledgment | acknowledged;adj;widely accepted | unacknowledged;adj;not recognised
+accumulate;v;gather over time | accumulation;n;a growing mass | accumulative;adj;increasing by addition | accumulator;n;a thing that collects
+analyse;v;examine in detail;analyze | analysis;n;a detailed examination | analyst;n;an expert who studies data | analytical;adj;using careful examination | analytically;adv;by careful step-by-step study
+anticipate;v;expect and prepare for | anticipation;n;the act of expecting | anticipated;adj;expected | anticipatory;adj;showing expectation
+articulate;v;express clearly | articulation;n;clear expression | articulated;adj;clearly expressed | inarticulate;adj;unable to speak clearly
+assess;v;judge the value of | assessment;n;an evaluation | assessor;n;one who judges value or quality | reassess;v;judge again
+assume;v;take to be true | assumption;n;something taken as true | assumed;adj;supposed or false | assuming;adj;taking too much for granted
+authorise;v;give official permission;authorize | authorisation;n;official permission;authorization | authority;n;the power to give orders | authoritative;adj;commanding respect | unauthorised;adj;without permission;unauthorized
+calculate;v;work out by maths | calculation;n;a mathematical working | calculator;n;a device for sums | calculated;adj;done with intent | incalculable;adj;too great to measure
+categorise;v;sort into groups;categorize | category;n;a class of things | categorical;adj;absolute and clear | categorisation;n;the act of sorting;categorization
+circulate;v;move around | circulation;n;movement around a system | circular;adj;shaped like a ring | circulatory;adj;relating to the flow of blood
+collaborate;v;work together | collaboration;n;joint work | collaborator;n;one who works with others | collaborative;adj;involving joint work
+combine;v;join together | combination;n;a joining | combined;adj;joined together | combiner;n;a thing that joins others together
+commit;v;pledge or carry out | commitment;n;a pledge | committed;adj;dedicated | committee;n;a group appointed for a task | noncommittal;adj;giving no clear opinion
+compensate;v;make up for | compensation;n;something given to make up | compensatory;adj;serving to make up | uncompensated;adj;not paid for
+compile;v;gather and put together | compilation;n;a collected set | compiler;n;a program that turns code into a runnable form | compiled;adj;gathered together
+conclude;v;bring to an end | conclusion;n;an ending or decision | conclusive;adj;decisive | inconclusive;adj;not decisive | conclusively;adv;in a decisive way
+confirm;v;show to be true | confirmation;n;proof or approval | confirmed;adj;established | unconfirmed;adj;not proven
+conform;v;follow rules | conformity;n;the act of following rules | conformist;n;one who follows norms | nonconformist;n;one who rejects norms
+confront;v;face boldly | confrontation;n;a hostile meeting | confrontational;adj;eager to challenge or clash | confronted;adj;faced directly
+consent;v;give permission | consensus;n;general agreement | consensual;adj;done by agreement | consenting;adj;agreeing
+conserve;v;protect from loss | conservation;n;the act of protecting | conservative;adj;resistant to change | conservationist;n;one who protects nature
+consist;v;be made up of | consistency;n;steadiness | consistent;adj;unchanging | consistently;adv;in a steady way | inconsistent;adj;not steady
+constitute;v;make up | constitution;n;a set of principles | constitutional;adj;relating to a state's basic laws | constituent;n;a component part
+consult;v;seek advice from | consultation;n;a meeting for advice | consultant;n;an expert adviser | consultancy;n;a firm giving advice
+consume;v;use up or eat | consumption;n;the act of using up | consumer;n;one who buys goods | consumable;adj;able to be used up
+contain;v;hold within | container;n;a holder | containment;n;the act of holding in | uncontained;adj;not held in
+contaminate;v;make impure | contamination;n;the state of being impure | contaminant;n;a polluting agent | uncontaminated;adj;pure
+contradict;v;state the opposite | contradiction;n;a conflict of statements | contradictory;adj;in conflict | contradicted;adj;shown to be wrong
+convert;v;change in form | conversion;n;a change of form | convertible;adj;able to be changed | converter;n;a device that changes one form to another
+convince;v;make someone believe | conviction;n;a firm belief | convincing;adj;believable | convinced;adj;firmly believing | unconvincing;adj;not believable
+cooperate;v;work together | cooperation;n;joint effort | cooperative;adj;willing to help | uncooperative;adj;unwilling to help
+coordinate;v;organise to work together | coordination;n;organised action | coordinator;n;one who organises | coordinated;adj;well organised | uncoordinated;adj;not organised
+correspond;v;match or exchange letters | correspondence;n;letters or agreement | correspondent;n;a letter-writer or reporter | corresponding;adj;matching
+criticise;v;find fault with;criticize | criticism;n;the act of finding fault | critic;n;one who judges | critical;adj;fault-finding or crucial | critically;adv;in a fault-finding way
+cultivate;v;prepare and grow | cultivation;n;the act of growing | cultivated;adj;refined or grown | cultivator;n;a tool for tilling
+declare;v;announce formally | declaration;n;a formal announcement | declared;adj;openly stated | undeclared;adj;not announced
+dedicate;v;devote to a purpose | dedication;n;devotion | dedicated;adj;devoted | undedicated;adj;not committed
+demonstrate;v;show clearly | demonstration;n;a clear showing | demonstrator;n;one who shows or protests publicly | demonstrable;adj;able to be proven | demonstrative;adj;showing feeling openly
+deny;v;say something is untrue | denial;n;a refusal to accept | deniable;adj;able to be said untrue | undeniable;adj;impossible to say is untrue
+deprive;v;take away from | deprivation;n;the state of lacking | deprived;adj;lacking necessities
+derive;v;obtain from a source | derivation;n;the origin of something | derivative;n;something based on another | derived;adj;taken from a source
+designate;v;assign a role | designation;n;an official title | designated;adj;officially assigned | designator;n;a thing that marks
+determine;v;decide or find out | determination;n;firmness of purpose | determined;adj;firmly resolved | determinant;n;a deciding factor | predetermined;adj;decided in advance
+devote;v;give fully to | devotion;n;great loyalty | devoted;adj;very loyal | devotee;n;an enthusiastic follower
+diminish;v;make smaller | diminution;n;a reduction | diminished;adj;made less | undiminished;adj;not reduced
+dominate;v;have control over | domination;n;controlling power | dominant;adj;most powerful | dominance;n;a position of control over others | predominant;adj;most common
+donate;v;give to a cause | donation;n;a gift | donor;n;one who gives | donated;adj;given freely
+eliminate;v;get rid of | elimination;n;the act of removing | eliminated;adj;removed | eliminator;n;a thing that removes
+emerge;v;come out or become known | emergence;n;the act of coming out | emergent;adj;newly appearing | emergency;n;a sudden serious situation
+emphasise;v;give importance to;emphasize | emphasis;n;special importance | emphatic;adj;forceful | emphatically;adv;in a forceful way | unemphatic;adj;not forceful
+enable;v;make possible | enabler;n;one who makes possible | enabled;adj;made able | disable;v;make unable
+encourage;v;give confidence to | encouragement;n;support and confidence | encouraging;adj;giving hope | discourage;v;take away confidence | discouragement;n;a loss of confidence
+endure;v;bear patiently | endurance;n;the ability to last | enduring;adj;long-lasting | endurable;adj;bearable | unendurable;adj;unbearable
+engage;v;involve or occupy | engagement;n;a promise or involvement | engaging;adj;charming | engaged;adj;busy or promised to marry | disengage;v;withdraw from
+enhance;v;improve the quality of | enhancement;n;an improvement | enhanced;adj;improved | enhancer;n;a thing that improves
+entertain;v;amuse | entertainment;n;amusement | entertainer;n;one who amuses | entertaining;adj;amusing
+estimate;v;judge roughly | estimation;n;a judgement | estimated;adj;roughly judged | overestimate;v;judge too high | underestimate;v;judge too low
+evaluate;v;judge the worth of | evaluation;n;a judgement of worth | evaluator;n;one who judges | evaluative;adj;involving judgement | reevaluate;v;judge again
+evolve;v;develop gradually | evolution;n;gradual development | evolutionary;adj;relating to development | evolved;adj;highly developed
+exaggerate;v;overstate | exaggeration;n;an overstatement | exaggerated;adj;overstated | exaggeratedly;adv;in an overstated way
+exceed;v;go beyond | excess;n;too much | excessive;adj;too great | excessively;adv;too much | exceeding;adj;very great
+exclude;v;keep out | exclusion;n;the act of keeping out | exclusive;adj;restricted to few | exclusively;adv;only | excluded;adj;left out
+exhaust;v;use up or tire out | exhaustion;n;extreme tiredness | exhausting;adj;very tiring | exhausted;adj;very tired | exhaustive;adj;very thorough
+exhibit;v;display | exhibition;n;a public display | exhibitor;n;one who displays | exhibitionist;n;one who seeks attention
+exist;v;be real | existence;n;the state of being | existent;adj;having real being | existential;adj;relating to being alive | nonexistent;adj;not real or present
+expand;v;make larger | expansion;n;the act of enlarging | expansive;adj;wide or open | expandable;adj;able to grow
+experiment;v;test scientifically | experimentation;n;the act of testing | experimental;adj;based on testing | experimentally;adv;by way of a controlled trial | experimenter;n;one who tests
+exploit;v;use unfairly or well | exploitation;n;unfair use | exploitative;adj;taking unfair advantage | exploitable;adj;able to be used
+expose;v;uncover | exposure;n;the state of being uncovered | exposed;adj;unprotected | overexposed;adj;shown too much
+extend;v;make longer | extension;n;an added part | extensive;adj;covering a large area | extensively;adv;widely | extended;adj;made longer
+facilitate;v;make easier | facilitation;n;the act of making easier | facilitator;n;one who helps a process | facilitative;adj;helping a process
+fascinate;v;attract strongly | fascination;n;strong attraction | fascinating;adj;very interesting | fascinated;adj;strongly attracted
+formulate;v;express in a precise way | formulation;n;a precise expression | formula;n;a fixed rule or recipe | reformulate;v;express again differently
+frustrate;v;prevent or annoy | frustration;n;a feeling of being blocked | frustrating;adj;causing annoyance | frustrated;adj;feeling blocked
+generate;v;produce | generation;n;the act of producing or an age group | generator;n;a machine that makes power | generative;adj;able to produce
+guarantee;v;promise firmly | guarantor;n;one who promises to back a debt | guaranteed;adj;promised for certain
+hesitate;v;pause in doubt | hesitation;n;a pause from doubt | hesitant;adj;unsure | hesitantly;adv;in an unsure way | unhesitating;adj;without doubt
+identify;v;recognise | identification;n;the act of recognising | identity;n;who someone is | identifiable;adj;able to be recognised | unidentified;adj;not recognised
+illustrate;v;explain with examples | illustration;n;a picture or example | illustrator;n;one who draws | illustrative;adj;serving as an example
+imitate;v;copy | imitation;n;a copy | imitator;n;one who copies | imitative;adj;copying others | inimitable;adj;impossible to copy
+implement;v;put into effect | implementation;n;the act of carrying out | implemented;adj;put into practice | unimplemented;adj;not carried out
+imply;v;suggest indirectly | implication;n;a suggested meaning | implicit;adj;suggested but not openly said | implicitly;adv;in a suggested, unstated way
+impress;v;affect strongly | impression;n;a lasting effect | impressive;adj;causing admiration | impressionable;adj;easily influenced | unimpressed;adj;not admiring
+include;v;contain as part | inclusion;n;the act of taking in as part | inclusive;adj;covering everything | inclusively;adv;in a way that takes everyone in
+incorporate;v;include as a part | incorporation;n;the act of including | incorporated;adj;combined into a whole | unincorporated;adj;not formally joined
+indicate;v;point out | indication;n;a sign | indicator;n;a thing that shows | indicative;adj;serving as a sign
+influence;v;affect | influential;adj;having great effect | influencer;n;one who affects others | uninfluenced;adj;not affected
+initiate;v;begin | initiation;n;the start | initiative;n;the power to begin | initiator;n;one who begins | initial;adj;first
+innovate;v;introduce new ideas | innovation;n;a new idea | innovator;n;one who brings in new ideas | innovative;adj;full of new ideas
+inspect;v;examine closely | inspection;n;a close examination | inspector;n;an official who checks standards | inspectorate;n;a body of officials who check standards
+install;v;set in place | installation;n;the act of setting up | installer;n;one who sets up | preinstalled;adj;set up beforehand
+instruct;v;teach or order | instruction;n;a direction | instructor;n;a teacher | instructive;adj;giving useful knowledge
+integrate;v;combine into a whole | integration;n;the act of combining | integrated;adj;combined | disintegrate;v;break into parts
+interpret;v;explain the meaning | interpretation;n;an explanation | interpreter;n;one who translates speech | interpretive;adj;serving to explain | misinterpret;v;explain wrongly
+interrupt;v;stop briefly | interruption;n;a break | interrupted;adj;stopped briefly | uninterrupted;adj;without a break
+intervene;v;step in | intervention;n;the act of stepping in | interventionist;n;one who favours stepping in | interventional;adj;involving stepping in to act
+investigate;v;examine carefully | investigation;n;a careful examination | investigator;n;one who looks into crimes or facts | investigative;adj;involving inquiry
+isolate;v;set apart | isolation;n;the state of being alone | isolated;adj;separate and alone | isolationism;n;a policy of staying apart
+justify;v;show to be right | justification;n;a good reason | justified;adj;shown to be right | justifiable;adj;able to be defended | unjustified;adj;without good reason
+
+# ---- Batch D: noun/adjective-rooted families, feelings, tech and sport ----
+absorb;v;take in | absorption;n;the act of taking in | absorbent;adj;able to soak up | absorbed;adj;deeply engaged
+abstract;adj;based on ideas not things | abstraction;n;an idea apart from real things | abstractly;adv;in terms of ideas, not objects | abstracted;adj;lost in thought
+accompany;v;go along with | accompaniment;n;something that goes with | accompanist;n;a musician who supports | unaccompanied;adj;alone
+account;v;explain or make up | accountable;adj;responsible | accountability;n;the state of being responsible | accountant;n;one who keeps finances | accounting;n;the work of keeping finances
+accurate;adj;free from error | accuracy;n;the state of being correct | accurately;adv;without error | inaccurate;adj;not correct | inaccuracy;n;a mistake
+achieve;v;reach a goal | achievement;n;something reached | achievable;adj;able to be reached | achiever;n;a successful person | unachievable;adj;impossible to reach
+acquire;v;gain possession of | acquisition;n;something gained | acquired;adj;gained over time | acquisitive;adj;eager to gain things
+admire;v;regard with respect | admiration;n;deep respect | admirer;n;one who greatly likes another | admirable;adj;deserving respect | admirably;adv;in a way worthy of praise
+admit;v;confess or allow in | admission;n;a confession or entry | admittance;n;permission to enter | admitted;adj;confessed
+adopt;v;take as one's own | adoption;n;the taking of a child as one's own | adoptive;adj;related through taking in a child | adopted;adj;taken as one's own
+advertise;v;promote publicly | advertisement;n;a public promotion | advertiser;n;one who promotes | advertising;n;the business of promotion
+advise;v;give guidance | advice;n;guidance offered | adviser;n;one who guides;advisor | advisable;adj;wise to do | advisory;adj;giving official guidance
+afford;v;have enough for | affordable;adj;reasonably priced | affordability;n;the state of being cheap enough to buy | unaffordable;adj;too expensive
+alter;v;change | alteration;n;a change | altered;adj;changed | unaltered;adj;not changed
+amaze;v;fill with wonder | amazement;n;great surprise | amazing;adj;causing wonder | amazed;adj;filled with wonder | amazingly;adv;surprisingly
+ambition;n;a strong desire to succeed | ambitious;adj;eager for success | ambitiously;adv;with a strong drive to succeed | overambitious;adj;too eager to succeed
+amuse;v;entertain | amusement;n;enjoyment | amusing;adj;funny | amused;adj;entertained
+announce;v;make known publicly | announcement;n;a public statement | announcer;n;one who reads the news aloud | unannounced;adj;without warning
+anxiety;n;a feeling of worry | anxious;adj;worried | anxiously;adv;in a worried way | overanxious;adj;too worried
+apologise;v;say sorry;apologize | apology;n;an expression of regret | apologetic;adj;showing regret | unapologetic;adj;not sorry
+appreciate;v;value or be grateful | appreciation;n;gratitude or understanding | appreciative;adj;showing thanks | unappreciated;adj;not valued
+approve;v;agree to | approval;n;agreement | approving;adj;showing agreement | disapprove;v;not agree with | disapproval;n;a lack of agreement
+assemble;v;put together | assembly;n;a gathering or fitting together | assembled;adj;put together | disassemble;v;take apart
+associate;v;connect in the mind | association;n;a connection or group | associated;adj;connected | associative;adj;involving connection
+attend;v;be present at | attendance;n;presence | attendant;n;one who serves | attentive;adj;paying close heed | inattentive;adj;not paying heed
+attempt;v;try | attempted;adj;tried but not done | unattempted;adj;not tried | reattempt;v;try again
+attach;v;fasten | attachment;n;a connection or fondness | attached;adj;fastened or fond | detach;v;separate | detachment;n;the act of separating
+attribute;v;credit to a source | attribution;n;the act of crediting | attributable;adj;able to be credited | attributed;adj;credited to
+authentic;adj;genuine | authenticity;n;the quality of being genuine | authenticate;v;prove to be genuine | authentication;n;proof of genuineness
+capable;adj;able | capability;n;the power to do | capably;adv;in an able way | incapable;adj;not able | incapability;n;a lack of ability
+celebrate;v;mark with joy | celebration;n;a joyful event | celebrated;adj;famous | celebrity;n;a famous person | celebratory;adj;marking a happy event
+challenge;v;call to a contest | challenger;n;one who calls another to a contest | challenging;adj;demanding | unchallenged;adj;not questioned
+circumstance;n;a fact affecting an event | circumstantial;adj;based on the surrounding details | circumstantially;adv;according to the surrounding details
+civilise;v;bring out of a primitive state;civilize | civilisation;n;an advanced society;civilization | civil;adj;relating to citizens or polite | civilian;n;a non-military person | uncivilised;adj;not refined;uncivilized
+coincide;v;happen at the same time | coincidence;n;a chance happening | coincidental;adj;happening by chance | coincidentally;adv;by chance
+comment;v;give an opinion | commentary;n;a series of remarks | commentator;n;one who describes events live | commented;adj;remarked upon
+compassion;n;deep sympathy | compassionate;adj;showing sympathy | compassionately;adv;with sympathy
+compel;v;force | compulsion;n;an irresistible urge | compulsive;adj;hard to control | compulsory;adj;required by rules
+complain;v;express dissatisfaction | complaint;n;a statement of dissatisfaction | complaining;adj;grumbling | uncomplaining;adj;not grumbling
+compose;v;create or make up | composition;n;a created work | composer;n;one who writes music | composed;adj;calm | decompose;v;break down
+comprehend;v;understand | comprehension;n;understanding | comprehensive;adj;covering everything | comprehensible;adj;able to be understood | incomprehensible;adj;impossible to understand
+conceive;v;form an idea | conception;n;the forming of an idea | conceivable;adj;imaginable | inconceivable;adj;unimaginable
+concentrate;v;focus | concentration;n;focused attention | concentrated;adj;made stronger | concentrator;n;a device that focuses
+condemn;v;express strong disapproval | condemnation;n;strong disapproval | condemned;adj;sentenced or doomed
+confer;v;grant or discuss | conference;n;a formal meeting | conferral;n;the granting of something
+confident;adj;sure of oneself | confidence;n;self-assurance | confidently;adv;with assurance | confidential;adj;secret | overconfident;adj;too sure
+confuse;v;mix up | confusion;n;a lack of clarity | confusing;adj;hard to understand | confused;adj;unable to think clearly
+congratulate;v;express joy at success | congratulation;n;an expression of joy | congratulatory;adj;expressing praise
+conscious;adj;aware | consciousness;n;awareness | consciously;adv;with awareness | unconscious;adj;not aware | subconscious;adj;below awareness
+consequence;n;a result | consequent;adj;following as a result | consequential;adj;important | consequently;adv;as a result
+conspire;v;plot secretly | conspiracy;n;a secret plot | conspirator;n;one who plots | conspiratorial;adj;relating to a plot
+constant;adj;unchanging | constancy;n;steadiness | constantly;adv;all the time | inconstant;adj;changeable
+contemplate;v;think deeply about | contemplation;n;deep thought | contemplative;adj;thoughtful | contemplated;adj;considered
+contest;v;compete for or dispute | contestant;n;one who competes | contested;adj;disputed | uncontested;adj;not disputed
+convenient;adj;easy to use | convenience;n;ease of use | conveniently;adv;in an easy way | inconvenient;adj;causing difficulty | inconvenience;n;a difficulty
+correct;v;make right | correction;n;a change to fix an error | corrective;adj;serving to fix | correctly;adv;without error | incorrect;adj;wrong
+courage;n;bravery | courageous;adj;brave | courageously;adv;bravely
+danger;n;the chance of harm | dangerous;adj;likely to cause harm | dangerously;adv;in a risky way | endanger;v;put at risk
+deceive;v;mislead | deception;n;the act of misleading | deceptive;adj;misleading | deceptively;adv;in a misleading way | deceit;n;dishonest behaviour
+decline;v;refuse or decrease | declining;adj;decreasing | declined;adj;refused
+delight;v;please greatly | delightful;adj;very pleasing | delighted;adj;very pleased | delightfully;adv;in a way that gives great joy
+depress;v;make sad or press down | depression;n;deep sadness or a hollow | depressing;adj;causing sadness | depressed;adj;very sad | antidepressant;n;a medicine that lifts low mood
+deserve;v;be worthy of | deserving;adj;worthy | deserved;adj;rightly earned | undeserved;adj;not earned
+desire;v;want strongly | desirable;adj;worth having | desirability;n;the quality of being wanted | undesirable;adj;not wanted
+destroy;v;ruin completely | destruction;n;the act of ruining | destructive;adj;causing ruin | destroyer;n;a thing that ruins | indestructible;adj;impossible to ruin
+detect;v;discover | detection;n;the act of discovering | detective;n;one who investigates | detector;n;a device that finds | detectable;adj;able to be found
+devastate;v;destroy utterly | devastation;n;great destruction | devastating;adj;highly destructive | devastated;adj;deeply shocked
+disturb;v;interrupt or worry | disturbance;n;an interruption | disturbing;adj;worrying | disturbed;adj;troubled | undisturbed;adj;not interrupted
+divide;v;split | division;n;the act of splitting | divisive;adj;causing disagreement | divided;adj;split | subdivide;v;split further
+edit;v;prepare text for use | edition;n;a published version | editor;n;one who prepares text for printing | editorial;adj;an article giving the paper's opinion | edited;adj;prepared for print
+elaborate;v;develop in detail | elaboration;n;added detail | elaborately;adv;in a detailed way | unelaborated;adj;without detail
+embarrass;v;cause to feel shame | embarrassment;n;a feeling of shame | embarrassing;adj;causing shame | embarrassed;adj;feeling shame
+enthusiasm;n;great eagerness | enthusiast;n;an eager fan | enthusiastic;adj;full of eagerness | enthusiastically;adv;with eagerness | unenthusiastic;adj;not eager
+environment;n;the surroundings | environmental;adj;relating to nature | environmentalist;n;one who protects nature | environmentally;adv;in terms of the natural surroundings
+equal;v;be the same as | equality;n;the state of being the same | equally;adv;to the same degree | unequal;adj;not the same | inequality;n;an unfair difference
+frequent;adj;happening often | frequency;n;the rate of occurrence | frequently;adv;often | infrequent;adj;not often
+glory;n;great honour | glorious;adj;magnificent | glorify;v;praise highly | gloriously;adv;magnificently
+history;n;the study of the past | historic;adj;important in the past | historical;adj;relating to the past | historian;n;an expert on the past | prehistoric;adj;from before written records
+honour;v;show great respect;honor | honourable;adj;deserving respect;honorable | honorary;adj;given as a mark of respect, unpaid | dishonour;n;shame;dishonor
+industry;n;manufacturing or hard work | industrial;adj;relating to factories and making goods | industrious;adj;hard-working | industrialise;v;build up factories in;industrialize | industrialist;n;an owner of large factories
+intense;adj;very strong | intensity;n;great strength | intensify;v;make stronger | intensely;adv;very strongly | intensive;adj;concentrated
+luxury;n;great comfort | luxurious;adj;very comfortable | luxuriously;adv;in a rich way | luxuriant;adj;growing thickly
+mystery;n;something hard to explain | mysterious;adj;hard to explain | mysteriously;adv;in a puzzling way | mystify;v;bewilder
+prosper;v;do well | prosperity;n;success and wealth | prosperous;adj;thriving | prosperously;adv;in a thriving way
+rebel;v;resist authority | rebellion;n;an uprising | rebellious;adj;defiant | rebelliously;adv;defiantly
+victory;n;a win | victorious;adj;having won | victoriously;adv;in a winning way | victor;n;a winner
+volunteer;v;offer freely | voluntary;adj;done by choice | voluntarily;adv;by choice | involuntary;adj;not by choice
+wonder;v;feel curiosity | wonderful;adj;extremely good | wonderfully;adv;in a way that amazes | wondrous;adj;causing amazement
+athlete;n;a person trained in sport | athletic;adj;physically fit | athletics;n;track-and-field sports | athletically;adv;in a fit, sporty way
+photograph;n;a picture from a camera | photography;n;the art of taking pictures | photographer;n;one who takes pictures | photographic;adj;relating to camera pictures
+music;n;organised sound | musical;adj;relating to arranged sound | musician;n;one who plays an instrument | musically;adv;in terms of arranged sound | musicality;n;a fine feel for arranged sound
+digital;adj;using electronic signals | digitise;v;turn into computer form;digitize | digitally;adv;using computer signals | digitisation;n;the change to computer form;digitization
+compute;v;calculate | computer;n;an electronic calculating machine | computation;n;a calculation | computational;adj;relating to number-crunching | computerise;v;fit with machines that process data;computerize
+program;v;write software;programme | programmer;n;one who writes code | programming;n;the writing of code | programmable;adj;able to be given a set of instructions
+
+# ---- Batch E: broad sweep to 500 ----
+accept;v;agree to receive | acceptance;n;the act of receiving | acceptable;adj;good enough | acceptably;adv;in a satisfactory way | unacceptable;adj;not good enough
+access;v;gain entry to | accessible;adj;easy to reach | accessibility;n;the state of being reachable | inaccessible;adj;impossible to reach
+accident;n;an unexpected event | accidental;adj;happening by chance | accidentally;adv;by chance
+adapt;v;adjust to new conditions | adaptation;n;the act of adjusting | adaptable;adj;able to adjust | adaptive;adj;serving to adjust | adapter;n;a connecting device
+advance;v;move forward | advancement;n;progress | advanced;adj;highly developed | unadvanced;adj;not developed
+adventure;n;an exciting experience | adventurous;adj;eager for risk | adventurer;n;one who seeks bold, risky trips | adventurously;adv;in a bold way
+allow;v;permit | allowance;n;a permitted amount | allowable;adj;permitted | disallow;v;refuse to permit
+appoint;v;assign to a role | appointment;n;an arranged meeting or role | appointed;adj;officially chosen | reappoint;v;assign again
+appropriate;adj;suitable | appropriately;adv;in a suitable way | appropriateness;n;suitability | inappropriate;adj;not suitable
+arrange;v;put in order | arrangement;n;an ordered set | arranged;adj;organised in advance | rearrange;v;put in a new order
+arrive;v;reach a place | arrival;n;the act of reaching a place | arriving;adj;coming in
+aspire;v;have a strong ambition | aspiration;n;a strong hope | aspiring;adj;seeking to become | aspirant;n;one who strives for a high goal
+assure;v;tell confidently | assurance;n;a confident promise | assured;adj;confident | reassure;v;remove someone's doubts
+atmosphere;n;the air or a mood | atmospheric;adj;relating to the air | atmospherically;adv;in terms of mood
+avoid;v;keep away from | avoidance;n;the act of keeping away | avoidable;adj;able to be prevented | unavoidable;adj;impossible to prevent
+aware;adj;having knowledge | awareness;n;knowledge or perception | unaware;adj;not knowing | self-aware;adj;knowing oneself
+balance;v;keep steady | balanced;adj;in a steady state | unbalanced;adj;not steady | imbalance;n;an uneven state
+behave;v;act in a way | behaviour;n;the way one acts;behavior | behavioural;adj;relating to how one acts;behavioral | misbehave;v;act badly
+betray;v;be disloyal to | betrayal;n;an act of disloyalty | betrayer;n;one who is disloyal
+calm;v;make peaceful | calmness;n;a peaceful state | calmly;adv;in a peaceful way | calming;adj;making peaceful
+cancel;v;call off | cancellation;n;the act of calling off | cancelled;adj;called off;canceled
+capture;v;take by force | captor;n;one who holds a prisoner | captive;n;a prisoner | captivity;n;the state of being held | captivating;adj;fascinating
+cease;v;stop | cessation;n;a stopping | ceaseless;adj;never stopping | ceaselessly;adv;without stopping
+characterise;v;describe the nature of;characterize | characteristic;n;a typical feature | characterisation;n;a description of nature;characterization | characteristically;adv;typically
+cheer;v;shout with joy | cheerful;adj;happy | cheerfully;adv;happily | cheerless;adj;gloomy
+circle;v;move around | circular;adj;shaped like a ring | encircle;v;form a ring around | semicircle;n;half a ring
+claim;v;state as true or demand | claimant;n;one who demands a right | claimed;adj;asserted | unclaimed;adj;not collected
+clean;v;remove dirt | cleaner;n;a worker or product that removes dirt | cleanliness;n;the state of being free of dirt | unclean;adj;dirty
+clever;adj;quick to learn | cleverness;n;quickness of mind | cleverly;adv;in a smart way
+climate;n;the usual weather | climatic;adj;relating to typical weather | climatically;adv;in terms of typical weather
+collapse;v;fall down | collapsible;adj;able to fold up | collapsed;adj;fallen down
+colour;n;a visual property;color | colourful;adj;full of bright hues;colorful | colourless;adj;without any hue;colorless | discolour;v;spoil the hue of;discolor
+command;v;give an order | commander;n;one in charge | commanding;adj;having authority | commandment;n;an order to obey
+complex;adj;made of many linked parts | complexity;n;the state of having many linked parts | complicate;v;make difficult | complication;n;a difficulty
+comply;v;obey a rule | compliance;n;the act of obeying | compliant;adj;willing to obey | noncompliance;n;a failure to obey
+conceal;v;hide | concealment;n;the act of hiding | concealed;adj;hidden | unconcealed;adj;open
+concern;v;worry or relate to | concerned;adj;worried | concerning;adj;causing worry | unconcerned;adj;not worried
+conduct;v;lead or carry out | conductor;n;one who leads | conduction;n;the passing of energy | conductive;adj;able to carry current | semiconductor;n;a material for chips
+confess;v;admit a fault | confession;n;an admission | confessor;n;a priest who hears admissions of sin | confessed;adj;openly admitted
+constrain;v;restrict | constraint;n;a restriction | constrained;adj;held back | unconstrained;adj;free
+content;adj;satisfied | contentment;n;satisfaction | contented;adj;happily satisfied | discontent;n;dissatisfaction
+contract;v;shrink or agree | contraction;n;a shrinking | contractor;n;a firm hired to do a job | contractual;adj;set out in a binding deal
+contrast;v;show a difference | contrasting;adj;strikingly different | contrasted;adj;set in opposition
+control;v;direct | controller;n;one that directs | controllable;adj;able to be directed | uncontrollable;adj;impossible to direct | controlled;adj;kept in check
+count;v;find the total | countable;adj;able to be numbered | countless;adj;too many to number | recount;v;number again
+cover;v;place over | coverage;n;how much is reported or included | covering;n;a layer over | uncover;v;remove a cover to reveal | undercover;adj;done in secret
+crime;n;an illegal act | criminal;n;one who breaks the law | criminality;n;the tendency to break the law | criminalise;v;make illegal;criminalize | decriminalise;v;make legal;decriminalize
+cruel;adj;causing pain | cruelty;n;willingness to cause pain | cruelly;adv;in a harsh, painful way
+cure;v;heal | curable;adj;able to be healed | incurable;adj;impossible to heal | cured;adj;healed
+curious;adj;eager to know | curiosity;n;eagerness to know | curiously;adv;in an inquisitive way
+dare;v;be bold enough | daring;adj;bold | daringly;adv;in a bold way | daredevil;n;a reckless person
+deal;v;handle or trade | dealer;n;one who trades | dealership;n;a trading business | dealings;n;business relations
+decrease;v;make smaller | decreasing;adj;getting smaller | decreased;adj;made smaller
+defeat;v;win against | defeated;adj;beaten | undefeated;adj;never beaten | defeatist;n;one who expects to lose
+delay;v;make late | delayed;adj;made late | undelayed;adj;on time
+deliver;v;take to a place | delivery;n;the act of taking | deliverer;n;one who brings goods to a place | undelivered;adj;not taken to its place
+demand;v;ask forcefully | demanding;adj;requiring much | demanded;adj;strongly required | undemanding;adj;requiring little
+depart;v;leave | departure;n;the act of leaving | departed;adj;gone away
+deposit;v;put down or in | depositor;n;one who puts money in a bank | depository;n;a place for storage
+detail;v;describe fully | detailed;adj;having much information | undetailed;adj;lacking fine points
+dictate;v;order or say aloud | dictation;n;spoken words to write down | dictator;n;a ruler with total power | dictatorship;n;rule by one all-powerful leader
+dignity;n;a sense of worth | dignified;adj;showing self-respect | dignify;v;give worth to | undignified;adj;lacking self-respect
+discipline;v;train to obey | disciplined;adj;well-controlled | disciplinary;adj;relating to punishment | undisciplined;adj;lacking control
+discuss;v;talk about | discussion;n;a talk about a topic | discussed;adj;talked about | undiscussed;adj;not talked about
+disease;n;an illness | diseased;adj;affected by illness | disease-free;adj;free of illness
+disgust;v;cause revulsion | disgusting;adj;causing revulsion | disgusted;adj;feeling revulsion | disgustingly;adv;revoltingly
+dismiss;v;send away or reject | dismissal;n;the act of sending away | dismissive;adj;showing no respect | dismissed;adj;sent away
+display;v;show | displayed;adj;shown | undisplayed;adj;not shown
+dispose;v;get rid of or arrange | disposal;n;the act of getting rid of | disposable;adj;made to be thrown away | disposed;adj;inclined
+dispute;v;argue about | disputed;adj;argued over | indisputable;adj;beyond doubt | undisputed;adj;accepted by all
+dissolve;v;break up in liquid | dissolution;n;the act of breaking up | dissolved;adj;broken up in liquid
+distance;n;the space between | distant;adj;far away | distantly;adv;from far off
+distinct;adj;clearly separate | distinction;n;a clear difference | distinctive;adj;easily recognised | distinctly;adv;clearly | indistinct;adj;not clear
+distract;v;draw attention away | distraction;n;something that diverts attention | distracted;adj;unable to focus | undistracted;adj;fully focused
+distress;v;cause suffering | distressing;adj;causing suffering | distressed;adj;suffering | undistressed;adj;calm
+diverse;adj;varied | diversity;n;variety | diversify;v;make more varied | diversification;n;the act of varying
+doubt;v;feel unsure | doubtful;adj;uncertain | doubtless;adv;certainly | undoubted;adj;certain | doubtfully;adv;with uncertainty
+drama;n;a play or exciting event | dramatic;adj;striking | dramatist;n;a playwright | dramatically;adv;in a striking way | dramatise;v;turn into a stage or screen story;dramatize
+dream;v;imagine in sleep | dreamer;n;one whose mind wanders to hopes | dreamy;adj;lost in thought | dreamless;adj;without visions in sleep
+ease;v;make less difficult | easy;adj;not difficult | easily;adv;without difficulty | uneasy;adj;anxious
+effect;n;a result | effective;adj;producing a result | effectively;adv;in a way that works well | ineffective;adj;not producing a result | effectiveness;n;the power to produce results
+efficient;adj;working without waste | efficiency;n;the state of working well | efficiently;adv;without waste | inefficient;adj;wasteful
+elegant;adj;graceful and stylish | elegance;n;grace and style | elegantly;adv;in a stylish way | inelegant;adj;lacking grace
+embrace;v;hug or accept | embraced;adj;warmly accepted | unembraced;adj;not accepted
+emotion;n;a strong feeling | emotional;adj;relating to feelings | emotionally;adv;in terms of feeling | unemotional;adj;showing no feeling
+empire;n;a group of ruled nations | imperial;adj;relating to a vast realm ruled by one power | imperialism;n;the policy of ruling other lands | imperialist;n;a backer of ruling other lands
+empty;v;remove the contents | emptiness;n;the state of having nothing inside | emptied;adj;having nothing inside
+energy;n;the power to do work | energetic;adj;full of lively force | energetically;adv;with lively force | energise;v;fill with lively force;energize
+engineer;v;design and build | engineering;n;the design of machines and structures | engineered;adj;carefully designed
+enter;v;go into | entrance;n;a way in | entry;n;the act of going in | reenter;v;go in again
+entire;adj;whole | entirety;n;the whole of something | entirely;adv;completely
+equip;v;provide with tools | equipment;n;the tools provided | equipped;adj;supplied with tools | unequipped;adj;not supplied
+erupt;v;burst out | eruption;n;a bursting out | erupting;adj;bursting out
+escape;v;get free | escapee;n;one who gets free | escapism;n;a flight from reality | inescapable;adj;impossible to avoid
+essence;n;the core nature | essential;adj;absolutely necessary | essentially;adv;basically | inessential;adj;not necessary
+establish;v;set up | establishment;n;the act of setting up | established;adj;firmly set up | reestablish;v;set up again
+evident;adj;clearly seen | evidence;n;proof | evidently;adv;obviously | self-evident;adj;obvious without proof
+exact;adj;completely correct | exactness;n;correctness | exactly;adv;precisely | inexact;adj;not precise
+example;n;a typical case | exemplary;adj;serving as a model | exemplify;v;serve as a clear case of
+excel;v;be very good | excellence;n;great quality | excellent;adj;extremely good | excellently;adv;extremely well
+exchange;v;swap | exchangeable;adj;able to be swapped | interchange;v;swap with each other | interchangeable;adj;able to be swapped
+excuse;v;forgive | excusable;adj;able to be forgiven | inexcusable;adj;too bad to forgive | unexcused;adj;without a reason
+execute;v;carry out or put to death | execution;n;the carrying out | executive;n;a senior manager | executioner;n;one who carries out a death sentence
+exercise;v;use or train the body | exercised;adj;used or worried | overexercise;v;train too much
+expense;n;a cost | expensive;adj;costing a lot | expensively;adv;at high cost | inexpensive;adj;cheap
+experience;v;undergo | experienced;adj;having skill from practice | inexperienced;adj;lacking skill | experiential;adj;based on what one has lived through
+expert;n;a skilled authority | expertise;n;special skill | expertly;adv;skilfully | inexpert;adj;unskilled
+explode;v;blow up | explosion;n;a violent burst | explosive;adj;able to blow up | exploded;adj;blown apart
+extract;v;take out | extraction;n;the act of taking out | extractor;n;a device that removes | extracted;adj;taken out
+extreme;adj;very great | extremity;n;the furthest point | extremely;adv;very | extremist;n;one with radical views | extremism;n;radical belief
+faith;n;strong belief | faithful;adj;loyal | faithfully;adv;loyally | unfaithful;adj;disloyal | faithless;adj;without loyalty
+fault;n;a flaw or mistake | faulty;adj;having flaws | faultless;adj;perfect | faultlessly;adv;perfectly
+favour;v;prefer;favor | favourable;adj;positive;favorable | favourite;n;a preferred one;favorite | unfavourable;adj;negative;unfavorable
+fiction;n;invented stories | fictional;adj;not real | fictitious;adj;made up | nonfiction;n;factual writing
+fluent;adj;speaking smoothly | fluency;n;smooth skill in speaking | fluently;adv;smoothly
+focus;v;concentrate | focused;adj;concentrated | unfocused;adj;not concentrated | refocus;v;concentrate again
+fortune;n;luck or wealth | fortunate;adj;lucky | fortunately;adv;luckily | unfortunate;adj;unlucky
+fragile;adj;easily broken | fragility;n;the state of being delicate | fragilely;adv;delicately
+function;v;work or operate | functional;adj;working properly | functionality;n;the range of tasks a thing can do | dysfunctional;adj;not working properly
+generous;adj;giving freely | generosity;n;the quality of giving | generously;adv;in a giving way | ungenerous;adj;not giving
+gentle;adj;mild and kind | gentleness;n;mildness | gently;adv;in a mild way | gentleman;n;a well-mannered man
+genuine;adj;real | genuinely;adv;truly | genuineness;n;the quality of being real
+grateful;adj;thankful | gratitude;n;thankfulness | gratefully;adv;with thanks | ungrateful;adj;not thankful
+harm;v;cause hurt | harmful;adj;causing hurt | harmless;adj;not causing hurt | harmfully;adv;in a damaging way
+harmony;n;a pleasing agreement | harmonious;adj;in agreement | harmonise;v;bring into agreement;harmonize | harmoniously;adv;in agreement

@@ -1,0 +1,522 @@
+# Familias de Palabras — base de datos (Español, B1–B2)
+# formato:  palabra;pos;definición[;alt,alt] | palabra;pos;definición  ...
+# pos:  n=sustantivo  v=verbo  adj=adjetivo  adv=adverbio   (combina con / p. ej. n/v)
+# La PRIMERA palabra de la línea es la base que se muestra al jugador.
+
+crear;v;producir algo nuevo | creación;n;acción de hacer algo nuevo | creativo;adj;con ideas nuevas | creatividad;n;capacidad de inventar cosas nuevas | creador;n;quien hace algo por primera vez | creativamente;adv;con mucha imaginación
+nación;n;país y su gente | nacional;adj;de todo un país | nacionalidad;n;país al que pertenece alguien | nacionalismo;n;fuerte apego al propio país | nacionalista;n;quien defiende con fuerza a su país | nacionalizar;v;poner bajo control del Estado
+belleza;n;cualidad de lo hermoso | bello;adj;agradable a la vista | embellecer;v;hacer más hermoso | bellamente;adv;de forma hermosa
+competir;v;participar en una contienda | competición;n;prueba o contienda | competidor;n;rival en una prueba | competitivo;adj;al que le gusta ganar | competencia;n;rivalidad o aptitud
+fuerte;adj;con mucha energía física | fuerza;n;poder o energía | fortalecer;v;dar más vigor | fuertemente;adv;con intensidad | fortaleza;n;vigor interior o recinto amurallado
+decidir;v;tomar una elección | decisión;n;elección que se toma | decisivo;adj;que resuelve algo | decididamente;adv;con firmeza | indeciso;adj;que no logra elegir
+economía;n;sistema de dinero y comercio | económico;adj;relativo al dinero y al comercio | economista;n;experto en dinero y comercio | economizar;v;gastar menos | económicamente;adv;en cuanto al dinero
+ciencia;n;estudio del mundo natural | científico;n/adj;experto en el estudio del mundo natural | científicamente;adv;con método riguroso
+gobernar;v;dirigir un país | gobierno;n;grupo que dirige un país | gobernante;n;persona que dirige un país | gobernador;n;jefe de una región | gobernanza;n;modo de dirigir un país
+producir;v;fabricar o generar | producción;n;acción de fabricar o generar | producto;n;cosa fabricada | productor;n;quien fabrica bienes | productivo;adj;que rinde mucho | productividad;n;nivel de rendimiento
+educar;v;formar o instruir | educación;n;proceso de formar | educativo;adj;que sirve para formar | educador;n;persona que forma a otros | educado;adj;con buenos modales
+informar;v;dar noticias o datos | información;n;datos que se comunican | informe;n;documento con datos | informativo;adj;que da noticias | informante;n;quien aporta datos
+comunicar;v;transmitir un mensaje | comunicación;n;acción de transmitir mensajes | comunicativo;adj;que transmite con facilidad | comunicado;n;aviso oficial | comunicador;n;quien transmite bien un mensaje
+imaginar;v;formar ideas en la mente | imaginación;n;capacidad de representar cosas en la mente | imaginario;adj;que solo existe en la mente | imaginativo;adj;con muchas ideas en la mente
+observar;v;mirar con atención | observación;n;acción de mirar con atención | observador;n;quien mira con atención | observatorio;n;lugar para mirar el cielo
+organizar;v;poner en orden | organización;n;grupo o acción de ordenar | organizador;n;quien pone algo en orden | organizado;adj;bien ordenado | organizativo;adj;relativo a poner en orden
+celebrar;v;festejar algo | celebración;n;acción de festejar algo | célebre;adj;muy famoso | celebridad;n;persona famosa
+explicar;v;hacer entender algo | explicación;n;acción de aclarar algo | explicativo;adj;que aclara | explícito;adj;dicho con claridad
+alimentar;v;dar comida | alimento;n;lo que se come | alimentación;n;modo de comer | alimentario;adj;relativo a la comida | alimenticio;adj;que nutre
+respetar;v;tratar con consideración | respeto;n;consideración hacia algo | respetuoso;adj;que trata con consideración | respetable;adj;digno de consideración | respetuosamente;adv;con mucha consideración
+proteger;v;cuidar de un daño | protección;n;acción de resguardar del daño | protector;n/adj;que resguarda del daño | protegido;adj;puesto a salvo
+enseñar;v;mostrar o instruir | enseñanza;n;acción de instruir | enseñante;n;persona que instruye
+aprender;v;adquirir conocimiento | aprendizaje;n;proceso de adquirir saber | aprendiz;n;quien se forma en un oficio
+trabajar;v;realizar una labor | trabajo;n;actividad laboral | trabajador;n/adj;persona laboriosa que hace una labor | trabajoso;adj;que cuesta esfuerzo
+estudiar;v;dedicarse a aprender | estudio;n;acción de aprender algo | estudiante;n;persona que aprende en clase | estudioso;adj;muy aplicado al aprender
+jugar;v;hacer algo por diversión | juego;n;actividad para divertirse | jugador;n;persona que participa en un partido | juguetón;adj;al que le gusta divertirse | juguete;n;objeto para divertirse un niño
+ganar;v;obtener una victoria o dinero | ganador;n/adj;el que vence | ganancia;n;beneficio obtenido
+perder;v;dejar de tener algo | pérdida;n;acción de dejar de tener algo | perdedor;n/adj;el que pierde | perdido;adj;que no se encuentra
+vender;v;dar algo por dinero | venta;n;acción de dar algo por dinero | vendedor;n;persona que ofrece productos por dinero | vendible;adj;que se puede ofrecer por dinero
+comprar;v;adquirir con dinero | compra;n;acción de adquirir con dinero | comprador;n;persona que adquiere con dinero | comprable;adj;que se puede adquirir con dinero
+pagar;v;dar dinero por algo | pago;n;entrega de dinero por algo | pagador;n;el que entrega el dinero | pagable;adj;que se puede abonar
+viajar;v;ir de un lugar a otro | viaje;n;acción de ir de un sitio a otro | viajero;n;persona que recorre lugares | viático;n;dinero para el desplazamiento
+conducir;v;llevar un vehículo | conducción;n;acción de llevar un vehículo | conductor;n;persona que lleva un vehículo | conducta;n;manera de comportarse
+construir;v;hacer una obra | construcción;n;acción o resultado de edificar | constructor;n;persona que edifica | constructivo;adj;que aporta o mejora
+destruir;v;deshacer algo | destrucción;n;acción de deshacer algo | destructor;n/adj;que deshace o arrasa | destructivo;adj;que causa daño
+inventar;v;crear algo nuevo | invención;n;acción de idear algo nuevo | invento;n;cosa ideada por primera vez | inventor;n;quien idea cosas nuevas | inventivo;adj;con ingenio
+descubrir;v;encontrar algo ignorado hasta entonces | descubrimiento;n;hallazgo | descubridor;n;quien halla algo por primera vez | descubierto;adj;sin cubrir
+investigar;v;indagar para saber | investigación;n;acción de indagar | investigador;n;persona que indaga
+analizar;v;examinar en detalle | análisis;n;acción de examinar en detalle | analista;n;persona que examina datos | analítico;adj;que examina con detalle
+comparar;v;ver semejanzas y diferencias | comparación;n;acción de ver semejanzas | comparativo;adj;que enfrenta unas cosas con otras | comparable;adj;que se puede poner al lado de otro
+medir;v;determinar una cantidad | medida;n;resultado de calcular un tamaño | medición;n;acción de hallar un tamaño | medidor;n;aparato que mide
+pesar;v;determinar la masa de un objeto | peso;n;lo que marca la balanza | pesado;adj;de mucha masa | pesadez;n;cualidad de lo muy denso o molesto
+contar;v;decir un número o un relato | cuenta;n;cálculo o factura | contador;n;persona que lleva las finanzas | contable;n/adj;relativo a las finanzas de una empresa | cuento;n;relato breve
+calcular;v;hacer operaciones | cálculo;n;acción de hacer operaciones | calculador;n/adj;que actúa con frío interés | calculadora;n;aparato para hacer operaciones
+sumar;v;añadir cantidades | suma;n;resultado de añadir cantidades | sumando;n;cada número que se añade
+dividir;v;partir en partes | división;n;acción de partir en partes | divisor;n;número que parte a otro | divisible;adj;que se puede partir
+multiplicar;v;aumentar en número | multiplicación;n;acción de aumentar en número | múltiplo;n;resultado de repetir un número varias veces | múltiple;adj;de muchas partes
+practicar;v;ejercitar una actividad | práctica;n;ejercicio repetido de una actividad | práctico;adj;útil o cómodo | prácticamente;adv;casi del todo
+entrenar;v;preparar con ejercicios | entrenamiento;n;ejercicio para prepararse | entrenador;n;persona que prepara a deportistas
+mejorar;v;volver algo más bueno o adecuado | mejora;n;avance o adelanto positivo | mejoría;n;progreso, sobre todo en salud | mejor;adj;superior a otro
+empeorar;v;volver algo más malo | empeoramiento;n;cambio a un estado más malo | peor;adj;inferior a otro
+crecer;v;aumentar de tamaño | crecimiento;n;aumento de tamaño | creciente;adj;que se hace mayor | crecido;adj;ya grande
+reducir;v;hacer más pequeño | reducción;n;acción de hacer más pequeño | reducido;adj;pequeño o limitado | reducible;adj;que se puede hacer menor
+aumentar;v;hacer más grande | aumento;n;acción de hacer más grande | aumentativo;adj;que hace mayor
+disminuir;v;hacer menor | disminución;n;acción de hacer menor | disminuido;adj;reducido
+desarrollar;v;hacer crecer o avanzar | desarrollo;n;acción de hacer crecer o avanzar | desarrollado;adj;avanzado | subdesarrollo;n;falta de avance económico
+avanzar;v;ir hacia adelante | avance;n;acción de ir hacia adelante | avanzado;adj;muy desarrollado | avanzadilla;n;grupo que va delante
+progresar;v;ir mejorando | progreso;n;acción de ir mejorando | progresivo;adj;que avanza poco a poco | progresista;n/adj;partidario de los cambios y el avance
+retroceder;v;ir hacia atrás | retroceso;n;acción de ir hacia atrás | retrógrado;adj;que se opone al progreso
+comenzar;v;dar principio | comienzo;n;principio de algo | comenzado;adj;ya iniciado
+terminar;v;dar fin | término;n;fin o palabra | terminación;n;final de algo | terminal;n/adj;final o estación
+acabar;v;llegar al final | acabado;n/adj;terminado o su terminación | acabose;n;el final o el colmo
+continuar;v;seguir sin parar | continuación;n;acción de seguir sin parar | continuo;adj;sin interrupción | continuamente;adv;sin parar
+parar;v;detener algo | parada;n;sitio o acción de detenerse | parado;adj;detenido o sin empleo | paro;n;detención o desempleo
+seguir;v;ir detrás o continuar | seguimiento;n;acción de ir detrás de algo | seguidor;n;persona que sigue a otra | seguido;adj;continuo
+llegar;v;alcanzar un destino | llegada;n;acción de arribar a un destino | llegado;adj;que ya ha arribado
+salir;v;ir hacia fuera | salida;n;acción o lugar por donde se va afuera | saliente;adj;que sale o sobresale
+entrar;v;ir hacia dentro | entrada;n;acción o lugar por donde se accede | entrante;adj;que accede o es próximo
+subir;v;ir hacia arriba | subida;n;acción de ir hacia arriba | subido;adj;alto o intenso
+bajar;v;ir hacia abajo | bajada;n;movimiento hacia un nivel inferior | bajo;adj;de poca altura
+abrir;v;dejar al descubierto | abertura;n;hueco o espacio libre | abierto;adj;no cerrado | apertura;n;acción de dejar libre un paso, o inicio
+cerrar;v;tapar una abertura | cierre;n;acción o pieza para tapar un paso | cerrado;adj;no abierto | cerradura;n;mecanismo para asegurar una puerta
+mover;v;cambiar de lugar | movimiento;n;acción de cambiar de sitio | móvil;n/adj;que se mueve o teléfono | movida;n;situación agitada
+girar;v;dar vueltas | giro;n;vuelta o cambio de dirección | giratorio;adj;que da vueltas
+caer;v;ir hacia el suelo | caída;n;acción de ir al suelo | caído;adj;que ya ha ido al suelo
+levantar;v;poner en alto | levantamiento;n;acción de alzar o rebelión | levantado;adj;puesto de pie
+sentar;v;poner en una silla | asiento;n;mueble para posarse | sentado;adj;que está en una silla
+dormir;v;estar en reposo profundo | sueño;n;reposo profundo del cuerpo, o anhelo | dormido;adj;que duerme | dormitorio;n;habitación para descansar de noche
+despertar;v;dejar de dormir | despertador;n;reloj que saca del sueño | despierto;adj;que no duerme o atento
+soñar;v;imaginar cosas mientras se duerme | sueño;n;lo que se ve al dormir | soñador;n/adj;que fantasea mucho
+comer;v;tomar alimento | comida;n;lo que se ingiere | comedor;n;sala donde se toman los alimentos | comestible;adj;que se puede ingerir
+beber;v;tomar líquido | bebida;n;líquido que se ingiere | bebedor;n;persona que ingiere alcohol | bebible;adj;que se puede ingerir
+cocinar;v;preparar la comida | cocina;n;sitio o arte de preparar comida | cocinero;n;persona que prepara la comida | cocido;adj;preparado con calor
+hornear;v;cocer un alimento con calor seco | horno;n;aparato que da calor para cocer | horneado;adj;cocido con calor seco
+freír;v;cocinar en aceite | freidora;n;aparato para cocinar en aceite | frito;adj;cocinado en aceite
+cortar;v;dividir con un filo | corte;n;acción o resultado de dividir con filo | cortante;adj;que tiene filo | cortado;adj;dividido o tímido
+mezclar;v;unir cosas distintas | mezcla;n;resultado de unir cosas distintas | mezclador;n;aparato para unir ingredientes | mezclado;adj;combinado
+probar;v;examinar o degustar | prueba;n;acción de examinar o catar | probable;adj;que puede ocurrir | probablemente;adv;muy posiblemente | probador;n;sitio para medirse la ropa
+saborear;v;disfrutar el gusto de la comida | sabor;n;sensación en la boca | sabroso;adj;de buen gusto al paladar | saborizante;n;sustancia que da gusto a la comida
+oler;v;percibir aromas por la nariz | olor;n;lo que se huele | oloroso;adj;que huele mucho | olfato;n;sentido para percibir aromas
+escuchar;v;prestar atención a un sonido | escucha;n;acción de atender un sonido | reescuchar;v;volver a escuchar algo
+mirar;v;dirigir la vista | mirada;n;acción de dirigir la vista | mirador;n;sitio para contemplar el paisaje
+ver;v;percibir con los ojos | vista;n;sentido con el que se percibe la luz | visible;adj;que se puede percibir con los ojos | visión;n;acción de percibir por los ojos, o idea | visual;adj;relativo al sentido de los ojos
+tocar;v;poner la mano o sonar música | tacto;n;sentido del contacto | tocado;adj;afectado o con sombrero | toque;n;contacto ligero con la mano
+hablar;v;usar la palabra | habla;n;facultad de decir palabras | hablante;n;persona que usa una lengua | hablador;n/adj;que dice muchas cosas
+decir;v;expresar con palabras | dicho;n;refrán o frase | dicción;n;manera de pronunciar
+gritar;v;hablar muy alto | grito;n;voz muy fuerte | griterío;n;ruido de muchas voces fuertes
+cantar;v;emitir sonidos musicales | canción;n;pieza musical | cantante;n;persona que entona melodías con la voz | canto;n;arte de emitir melodías con la voz | cantautor;n;quien compone y entona sus temas
+bailar;v;mover el cuerpo con música | baile;n;acción de moverse al ritmo de la música | bailarín;n;persona que se mueve al ritmo | bailable;adj;apto para moverse al ritmo
+escribir;v;plasmar palabras | escritura;n;acción de trazar palabras | escritor;n;persona que redacta obras | escrito;n/adj;texto puesto en el papel | escritorio;n;mueble para redactar
+leer;v;interpretar lo escrito | lectura;n;acción de interpretar un texto | lector;n;persona que interpreta textos | legible;adj;que se puede interpretar con la vista
+dibujar;v;trazar figuras | dibujo;n;figura trazada a mano | dibujante;n;persona que traza figuras
+pintar;v;dar color con una brocha | pintura;n;arte o material para dar color | pintor;n;persona que da color a un lienzo | pintoresco;adj;muy vistoso
+fotografiar;v;captar una imagen | fotografía;n;imagen captada | fotógrafo;n;persona que capta imágenes | fotográfico;adj;relativo a las imágenes captadas
+filmar;v;grabar imágenes en movimiento | filmación;n;acción de grabar imágenes en movimiento | filme;n;película | fílmico;adj;relativo al cine
+actuar;v;interpretar un papel | actuación;n;acción de interpretar un papel | actor;n;hombre que interpreta papeles | actriz;n;mujer que interpreta papeles
+dirigir;v;guiar o mandar | dirección;n;acción de guiar, o el domicilio | director;n;persona que guía un grupo | directivo;n/adj;que manda o guía en una empresa | directo;adj;sin rodeos
+presentar;v;dar a conocer | presentación;n;acción de dar a conocer algo | presentador;n;persona que conduce un programa | presente;n/adj;regalo o que está
+representar;v;actuar en nombre de algo | representación;n;acción de actuar en nombre de algo | representante;n;persona que actúa en nombre de otros | representativo;adj;que sirve de muestra o símbolo
+imitar;v;hacer lo mismo que otro | imitación;n;acción de hacer lo mismo que otro | imitador;n;persona que copia a otro | imitativo;adj;que reproduce a otro
+pensar;v;usar la mente | pensamiento;n;lo que se piensa | pensador;n;persona que piensa | pensativo;adj;que reflexiona
+recordar;v;traer a la memoria | recuerdo;n;lo que queda en la memoria | recordatorio;n;aviso para no olvidar
+olvidar;v;dejar de recordar | olvido;n;acción de dejar de recordar | olvidadizo;adj;que pierde la memoria con facilidad
+conocer;v;tener idea de algo | conocimiento;n;lo que se sabe | conocido;n/adj;persona sabida o cosa sabida | reconocer;v;identificar de nuevo
+saber;v;tener conocimiento | sabiduría;n;conocimiento profundo | sabio;n/adj;persona de gran conocimiento | sabelotodo;n;quien cree conocerlo todo
+entender;v;comprender algo | entendimiento;n;capacidad de comprender | entendido;n/adj;experto o comprendido
+comprender;v;entender bien | comprensión;n;acción de captar el sentido | comprensivo;adj;que se pone en el lugar del otro | comprensible;adj;fácil de entender
+dudar;v;no estar seguro | duda;n;falta de certeza | dudoso;adj;incierto | indudable;adj;que no admite discusión
+creer;v;tener por cierto | creencia;n;idea que se tiene por cierta | creyente;n;persona que tiene una fe | increíble;adj;difícil de aceptar como cierto
+opinar;v;dar un parecer | opinión;n;idea o parecer sobre algo | opinable;adj;discutible
+sentir;v;experimentar una emoción | sentimiento;n;estado del ánimo | sentido;n;significado o facultad | sensible;adj;que siente con facilidad
+emocionar;v;causar un sentimiento intenso | emoción;n;estado afectivo intenso | emocional;adj;relativo a los sentimientos | emocionante;adj;que conmueve mucho
+amar;v;sentir un cariño profundo | amor;n;afecto profundo | amante;n;persona que quiere a otra | amoroso;adj;que muestra cariño | amado;adj;muy querido
+odiar;v;sentir un fuerte rechazo | odio;n;fuerte rechazo | odioso;adj;que provoca rechazo
+alegrar;v;causar gozo | alegría;n;sentimiento de gozo | alegre;adj;lleno de gozo | alegremente;adv;con mucho gozo
+entristecer;v;causar pena | tristeza;n;pena o pesar | triste;adj;lleno de pena | tristemente;adv;con mucha pena
+temer;v;tener miedo | temor;n;sensación de miedo | temeroso;adj;con miedo | temible;adj;que da miedo
+asustar;v;causar miedo de repente | susto;n;impresión de miedo | asustado;adj;con miedo | asustadizo;adj;que se espanta con facilidad
+sorprender;v;causar asombro | sorpresa;n;algo inesperado | sorprendente;adj;que asombra | sorprendido;adj;asombrado
+esperar;v;aguardar o desear | espera;n;acción de aguardar | esperanza;n;confianza en el futuro | esperanzador;adj;que anima a confiar en el futuro
+desear;v;querer algo | deseo;n;aquello que se anhela | deseable;adj;que se anhela | deseoso;adj;con muchas ganas
+gustar;v;resultar agradable | gusto;n;placer o sentido del sabor | gustoso;adj;agradable o sabroso
+disfrutar;v;gozar de algo | disfrute;n;acción de gozar de algo | disfrutón;adj;que goza mucho
+sufrir;v;padecer un dolor | sufrimiento;n;dolor que se padece | sufrido;adj;que aguanta mucho
+doler;v;causar una sensación molesta | dolor;n;sensación desagradable | dolorido;adj;que siente molestia física | doloroso;adj;que causa molestia física
+curar;v;sanar una enfermedad | cura;n;acción de sanar una herida | curación;n;proceso de sanar | curativo;adj;que sana
+sanar;v;recobrar el bienestar del cuerpo | sano;adj;con buen estado físico | sanidad;n;servicio público de la medicina | sanador;n;persona que cura o sana
+enfermar;v;perder la salud | enfermedad;n;alteración de la salud | enfermo;n/adj;persona sin salud | enfermero;n;quien atiende a los pacientes | enfermería;n;lugar donde se atiende a los pacientes
+vivir;v;existir con aliento | vida;n;existencia de un ser | vivo;adj;que tiene aliento | vivienda;n;lugar donde se habita | vivencia;n;experiencia por la que se ha pasado
+morir;v;dejar de vivir | muerte;n;fin de la vida | muerto;n/adj;sin vida | mortal;adj;que puede fallecer o matar | mortalidad;n;número de fallecimientos
+nacer;v;venir al mundo | nacimiento;n;acción de venir al mundo | nacido;adj;que ha venido al mundo | naciente;adj;que empieza
+criar;v;cuidar el crecimiento | crianza;n;acción de cuidar el crecimiento | criado;n;persona de servicio | criatura;n;ser vivo pequeño
+cuidar;v;atender con esmero | cuidado;n;atención y esmero | cuidadoso;adj;que actúa con esmero | cuidador;n;persona que atiende a alguien
+ayudar;v;prestar apoyo | ayuda;n;apoyo que se presta | ayudante;n;persona que presta apoyo
+salvar;v;librar de un peligro | salvación;n;acción de librar de un peligro | salvador;n;el que libra de un peligro | salvo;adj;fuera de peligro
+peligrar;v;estar en riesgo | peligro;n;riesgo de daño | peligroso;adj;que entraña riesgo | peligrosidad;n;grado de riesgo
+arriesgar;v;poner en peligro | riesgo;n;posibilidad de daño | arriesgado;adj;que expone a un peligro
+defender;v;proteger de un ataque | defensa;n;acción de proteger de un ataque | defensor;n;persona que defiende | defensivo;adj;que sirve para protegerse
+atacar;v;lanzarse contra algo | ataque;n;acción de lanzarse contra algo | atacante;n;el que se lanza contra otro
+luchar;v;combatir por algo | lucha;n;acción de combatir por algo | luchador;n;persona que combate
+vencer;v;derrotar o superar | victoria;n;triunfo sobre otro | vencedor;n/adj;el que gana o derrota | vencido;adj;derrotado | invencible;adj;que no se puede derrotar
+triunfar;v;lograr el éxito | triunfo;n;gran éxito | triunfador;n/adj;el que logra el éxito | triunfal;adj;propio de un gran éxito
+fracasar;v;no lograr el fin | fracaso;n;falta de éxito | fracasado;n/adj;el que no logra su fin
+lograr;v;conseguir un objetivo | logro;n;lo conseguido | logrado;adj;bien conseguido
+intentar;v;probar a hacer algo | intento;n;acción de probar a hacer algo | intentona;n;prueba que sale mal
+alcanzar;v;llegar a algo | alcance;n;distancia o importancia | alcanzable;adj;que se puede lograr
+fallar;v;no acertar | fallo;n;error o avería | fallido;adj;sin éxito
+acertar;v;dar en lo correcto | acierto;n;cosa hecha con tino | acertado;adj;correcto | acertijo;n;adivinanza
+equivocar;v;tomar una cosa por otra | equivocación;n;error | equivocado;adj;que ha cometido un error
+corregir;v;quitar los errores | corrección;n;acción de quitar los errores | corrector;n;el que quita los errores | correcto;adj;sin errores
+repetir;v;hacer de nuevo | repetición;n;acción de volver a hacer algo | repetido;adj;que se repite | repetitivo;adj;que se da muchas veces
+importar;v;tener valor o traer de fuera | importancia;n;valor de algo | importante;adj;de mucho valor | importación;n;acto de traer de fuera
+interesar;v;despertar la atención | interés;n;atención o provecho | interesante;adj;que atrae la atención | interesado;adj;que busca su propio provecho
+aburrir;v;causar tedio | aburrimiento;n;falta de diversión | aburrido;adj;que causa tedio o lo siente
+divertir;v;dar entretenimiento | diversión;n;entretenimiento | divertido;adj;que divierte
+entretener;v;hacer pasar el tiempo | entretenimiento;n;diversión | entretenido;adj;que hace pasar el rato
+descansar;v;reponer fuerzas | descanso;n;pausa para reponer fuerzas | descansado;adj;repuesto o cómodo
+cansar;v;quitar fuerzas | cansancio;n;falta de fuerzas | cansado;adj;sin energías | incansable;adj;que no se agota nunca
+relajar;v;quitar la tensión | relajación;n;acción de aflojar la tensión | relajado;adj;sin tensión | relajante;adj;que quita la tensión
+estresar;v;causar tensión | estrés;n;tensión excesiva | estresante;adj;que causa tensión nerviosa | estresado;adj;con mucha tensión nerviosa
+preocupar;v;causar inquietud | preocupación;n;inquietud | preocupante;adj;que causa inquietud | preocupado;adj;inquieto
+tranquilizar;v;dar calma | tranquilidad;n;estado de calma | tranquilo;adj;sin agitación | tranquilamente;adv;con calma
+calmar;v;quitar la agitación | calma;n;estado de quietud | calmado;adj;sereno | calmante;n/adj;que quita la agitación
+molestar;v;causar fastidio | molestia;n;incomodidad | molesto;adj;que causa fastidio
+enojar;v;causar enfado | enojo;n;enfado | enojado;adj;molesto | enojoso;adj;que causa enfado
+avergonzar;v;causar sonrojo | vergüenza;n;sentimiento de deshonra | avergonzado;adj;que siente sonrojo | vergonzoso;adj;que causa bochorno
+confiar;v;tener seguridad en algo | confianza;n;seguridad en alguien | confiado;adj;que se fía de algo | confiable;adj;digno de que se fíen de él
+desconfiar;v;no tener confianza | desconfianza;n;falta de confianza | desconfiado;adj;que no confía
+engañar;v;hacer creer lo falso | engaño;n;acción de hacer creer lo falso | engañoso;adj;que induce al error | engañado;adj;víctima de una mentira
+mentir;v;decir lo falso | mentira;n;algo falso | mentiroso;n/adj;que miente
+sincero;adj;que dice lo que siente | sinceridad;n;cualidad de quien no miente | sinceramente;adv;de forma franca y honesta
+honrar;v;dar prestigio o respeto | honor;n;buena fama o dignidad | honrado;adj;honesto | honradez;n;cualidad de la persona íntegra
+justo;adj;conforme a la equidad | justicia;n;lo que es equitativo | justificar;v;dar razón de algo | injusto;adj;contrario a la equidad | injusticia;n;falta de equidad
+libre;adj;sin ataduras | libertad;n;estado de quien no tiene ataduras | liberar;v;quitar las ataduras | liberación;n;acción de quitar las ataduras | libremente;adv;sin ataduras
+igual;adj;sin diferencias | igualdad;n;condición de no haber diferencias | igualar;v;hacer que dos cosas sean idénticas | desigual;adj;que no es idéntico | desigualdad;n;falta de equidad entre cosas
+diferente;adj;que no es igual | diferencia;n;lo que distingue | diferenciar;v;notar en qué no coinciden dos cosas | diferenciación;n;acción de notar lo que no coincide
+parecer;v;tener aspecto de | parecido;n/adj;semejanza o semejante | aparecer;v;dejarse ver | apariencia;n;aspecto externo
+distinguir;v;notar diferencias | distinción;n;acción de notar rasgos, o elegancia | distinguido;adj;elegante o notable | distintivo;n/adj;que hace notar la diferencia
+identificar;v;reconocer quién o qué es algo | identidad;n;conjunto de rasgos propios | identificación;n;acción de reconocer quién es alguien | idéntico;adj;exactamente igual
+clasificar;v;ordenar por grupos | clasificación;n;acción de ordenar por grupos | clase;n;grupo o lección | clasificado;adj;puesto en su grupo
+ordenar;v;colocar bien las cosas, o dar un mandato | orden;n;disposición o mandato | ordenado;adj;bien dispuesto | ordenador;n;computadora
+separar;v;apartar unas cosas de otras | separación;n;acción de apartar unas cosas de otras | separado;adj;apartado | inseparable;adj;que no se puede apartar
+juntar;v;poner cosas unidas | junta;n;reunión o pieza de unión | junto;adj;unido o cercano | juntura;n;punto de unión
+unir;v;juntar en uno | unión;n;acción de juntar en un solo todo | unido;adj;que forma un todo | unidad;n;cualidad de único o elemento
+combinar;v;unir de forma armónica | combinación;n;acción de mezclar de forma armónica | combinado;n/adj;mezcla o mezclado | combinable;adj;que se puede mezclar bien
+conectar;v;poner en comunicación | conexión;n;punto de unión | conectado;adj;unido a una red | reconectar;v;volver a enlazar
+relacionar;v;poner en conexión dos cosas | relación;n;vínculo entre cosas | relacionado;adj;que tiene conexión con algo | relativo;adj;que depende de otra cosa
+depender;v;estar sujeto a otro | dependencia;n;estado de estar sujeto a otro | dependiente;n/adj;subordinado o vendedor | independiente;adj;que no está sujeto a otro
+apoyar;v;dar sostén | apoyo;n;sostén o ayuda | apoyado;adj;que descansa sobre un sostén
+sostener;v;mantener firme | sostén;n;aquello que aguanta un peso | sostenido;adj;mantenido | sostenible;adj;que se puede mantener
+mantener;v;conservar en un estado | mantenimiento;n;cuidado para conservar | mantenido;adj;conservado
+guardar;v;conservar o vigilar | guarda;n;persona que vigila | guardián;n;el que vigila algo | guardería;n;lugar para cuidar niños
+tiempo;n;duración o clima | temporal;adj;que dura poco o de tormenta | temporada;n;época del año | temporalmente;adv;por un lapso breve
+día;n;periodo de veinticuatro horas | diario;n/adj;de cada jornada, o periódico | diariamente;adv;cada jornada | mediodía;n;las doce de la jornada
+noche;n;tiempo sin sol | nocturno;adj;propio de las horas sin sol | anochecer;v;empezar a faltar la luz del sol | trasnochar;v;quedarse despierto hasta muy tarde
+año;n;periodo de doce meses | anual;adj;que ocurre cada doce meses | anualmente;adv;una vez cada doce meses | añejo;adj;muy envejecido por el paso del tiempo
+mes;n;una de las doce partes del año | mensual;adj;que ocurre cada treinta días | mensualmente;adv;una vez cada treinta días | mensualidad;n;pago que se hace cada treinta días
+semana;n;periodo de siete días | semanal;adj;que ocurre cada siete días | semanalmente;adv;una vez cada siete días | semanario;n;revista que sale cada siete días
+hora;n;periodo de sesenta minutos | horario;n;cuadro que reparte el tiempo del día | ahora;adv;en este momento
+tarde;n;parte final del día | tardío;adj;que llega después de lo debido | tardar;v;emplear mucho tiempo | tardanza;n;retraso
+pronto;adv;dentro de poco | prontitud;n;rapidez | prontamente;adv;con rapidez
+rápido;adj;que va deprisa | rapidez;n;cualidad de lo veloz | rápidamente;adv;a gran velocidad | rapidísimo;adj;que va a gran velocidad
+lento;adj;que va despacio | lentitud;n;cualidad de lo que va despacio | lentamente;adv;despacio | ralentizar;v;hacer que algo vaya más despacio
+veloz;adj;muy rápido | velocidad;n;rapidez del movimiento | velozmente;adv;con gran rapidez
+sol;n;estrella que da luz | solar;adj;relativo al astro que ilumina el día | soleado;adj;con mucha luz natural | asolear;v;poner algo bajo la luz del día
+luna;n;satélite de la Tierra | lunar;n/adj;mancha de la piel, o del astro nocturno | alunizar;v;posarse en el satélite de la Tierra
+luz;n;lo que permite ver | luminoso;adj;que despide claridad | iluminar;v;dar claridad a un lugar | iluminación;n;conjunto de luces
+sombra;n;falta de luz | sombrío;adj;oscuro o triste | sombrear;v;dar zonas oscuras a un dibujo | sombreado;adj;con zonas más oscuras
+oscuro;adj;sin luz | oscuridad;n;falta de luz | oscurecer;v;quitar la luz | oscuramente;adv;de forma confusa
+claro;adj;con mucha luz | claridad;n;abundancia de luz | aclarar;v;hacer más nítido o explicar | claramente;adv;de forma nítida y fácil de entender
+calor;n;temperatura alta | caluroso;adj;con temperatura muy alta | calentar;v;dar más temperatura | caliente;adj;que está a temperatura alta
+frío;n/adj;temperatura baja o que la tiene | friolero;adj;muy sensible a la temperatura baja | enfriar;v;quitar el calor | frialdad;n;falta de calor o de afecto
+lluvia;n;agua que cae del cielo | lluvioso;adj;con mucha agua caída del cielo | llover;v;caer agua del cielo | llovizna;n;agua fina que cae del cielo
+viento;n;aire en movimiento | ventoso;adj;con mucho aire en movimiento | ventilar;v;renovar el aire | ventilador;n;aparato que mueve el aire
+nieve;n;agua helada que cae | nevado;adj;cubierto de copos helados | nevar;v;caer copos helados del cielo | nevada;n;caída de copos helados
+nube;n;masa de vapor en el cielo | nublado;adj;con el cielo tapado | nublar;v;tapar el cielo de vapor | nuboso;adj;con el cielo muy tapado
+cielo;n;espacio sobre la Tierra | celeste;adj;del firmamento, o azul claro | celestial;adj;del firmamento, o divino
+tierra;n;planeta o suelo | terrestre;adj;del planeta o del suelo | terreno;n;porción de suelo | aterrizar;v;posarse en el suelo un avión | terroso;adj;que tiene aspecto de suelo
+mar;n;gran masa de agua salada | marino;n/adj;propio del océano, o quien navega en él | marítimo;adj;relativo al océano | marea;n;subida y bajada del océano
+agua;n;líquido esencial para la vida | acuático;adj;que vive en el medio líquido | aguar;v;añadir líquido a una bebida | aguacero;n;lluvia fuerte
+río;n;corriente de agua | fluvial;adj;relativo a la corriente de agua | ribera;n;orilla de una corriente de agua | riachuelo;n;corriente de agua pequeña
+montaña;n;gran elevación de tierra | montañoso;adj;con muchas elevaciones del terreno | montañero;n;persona que sube grandes elevaciones | montículo;n;elevación pequeña
+bosque;n;terreno con muchos árboles | boscoso;adj;con muchos árboles | forestal;adj;relativo a la zona de árboles
+árbol;n;planta grande con tronco | arbolado;adj;poblado de plantas de tronco leñoso | arboleda;n;grupo de plantas de tronco leñoso | arbóreo;adj;propio de las plantas de tronco leñoso
+flor;n;parte que da color a la planta | floral;adj;relativo a los pétalos de las plantas | florecer;v;echar pétalos una planta | floristería;n;tienda donde venden ramos | florido;adj;lleno de pétalos abiertos
+planta;n;ser vivo que crece del suelo | plantar;v;meter en la tierra | plantación;n;terreno sembrado | plantío;n;lugar sembrado de vegetales
+fruta;n;alimento dulce que da el árbol | frutal;n/adj;árbol que da alimentos dulces | frutería;n;tienda de productos frescos del huerto | frutero;n;recipiente para poner manzanas y peras
+animal;n;ser vivo que se mueve | animalada;n;disparate o acto brutal | animalidad;n;condición propia de un ser vivo que se mueve
+perro;n;animal doméstico que ladra | perrera;n;lugar donde se recogen canes | perruno;adj;propio del animal que ladra
+gato;n;animal doméstico que maúlla | gatear;v;andar a cuatro patas | gatito;n;cría del animal que maúlla | gatuno;adj;propio del animal que maúlla
+pájaro;n;ave pequeña | pajarera;n;jaula grande para aves | pajarraco;n;ave grande y de feo aspecto
+pez;n;animal que vive en el agua | pescar;v;coger peces | pescado;n;animal de agua ya listo para comer | pescador;n;quien atrapa animales de escamas en el agua | pesca;n;acción de sacar animales del agua
+campo;n;terreno fuera de la ciudad | campestre;adj;propio del terreno fuera de la ciudad | campesino;n/adj;persona que trabaja la tierra | acampar;v;instalarse al aire libre
+ciudad;n;población grande | ciudadano;n;habitante de una gran población | ciudadanía;n;conjunto de los habitantes | cívico;adj;relativo al ciudadano y sus deberes
+pueblo;n;núcleo pequeño de casas y vecinos | poblar;v;llenar de gente | población;n;conjunto de habitantes | poblado;n/adj;lugar habitado o lleno de gente
+casa;n;lugar donde se vive | casero;n/adj;dueño del piso, o hecho en el hogar | caserío;n;grupo de viviendas en el campo | casita;n;vivienda pequeña
+puerta;n;abertura para entrar | portal;n;entrada de un edificio | portero;n;quien vigila la entrada | portón;n;entrada grande de un edificio
+ventana;n;abertura en la pared | ventanal;n;hueco grande para que entre luz | ventanilla;n;hueco pequeño de atención al público
+pared;n;muro de una casa | emparedar;v;encerrar entre muros | paredón;n;muro grande y grueso
+techo;n;parte superior de un cuarto | tejado;n;cubierta exterior de un edificio | teja;n;pieza curva de barro que cubre una casa | techar;v;poner cubierta a una casa
+suelo;n;superficie por donde se anda | solar;n;terreno sin edificar | subsuelo;n;capa que está bajo la superficie
+mueble;n;objeto para equipar la casa | amueblar;v;llenar una casa de objetos útiles | mobiliario;n;conjunto de sillas, mesas y demás | mueblería;n;tienda de sillas, mesas y armarios
+mesa;n;mueble con tablero y patas | sobremesa;n;charla tras la comida | mesilla;n;mueble bajo junto a la cama
+silla;n;asiento con respaldo | sillón;n;asiento grande y cómodo | ensillar;v;poner el asiento a un caballo
+cama;n;mueble para dormir | encamar;v;meter en el lecho | camastro;n;lecho pobre e incómodo | camilla;n;lecho con ruedas para enfermos
+calle;n;vía entre casas | callejón;n;paso estrecho entre edificios | callejero;n/adj;plano de la ciudad, o de la vía pública | callejear;v;andar de un lado a otro por la ciudad
+camino;n;vía para ir a un sitio | caminar;v;andar a pie | caminante;n;el que anda a pie por un sendero | encaminar;v;dirigir por una ruta
+carretera;n;vía para vehículos | carril;n;banda por la que va un vehículo | acarrear;v;transportar de un sitio a otro
+coche;n;vehículo de motor | cochera;n;lugar para guardar los vehículos | cochecito;n;vehículo pequeño para un bebé
+avión;n;vehículo que vuela | aviación;n;actividad de volar | aviador;n;piloto de una aeronave | avioneta;n;aeronave pequeña
+barco;n;vehículo que navega | embarcar;v;subir a una nave | barquero;n;el que lleva una nave pequeña | barcaza;n;nave grande y plana de carga
+volar;v;moverse por el aire | vuelo;n;acción de moverse por el aire | volador;adj;que se mueve por el aire | volante;n;pieza para conducir
+nadar;v;moverse en el agua | natación;n;deporte de moverse en el agua | nadador;n;el que se mueve en el agua | nado;n;acción de moverse en el agua
+correr;v;andar muy deprisa | carrera;n;acción de ir muy deprisa, o estudios | corredor;n;el que va deprisa, o pasillo | corredizo;adj;que se desliza
+saltar;v;lanzarse en el aire | salto;n;acción de lanzarse por el aire | saltarín;adj;que da muchos brincos | saltamontes;n;insecto que da grandes brincos
+deporte;n;actividad física de competición | deportivo;adj;relativo a la actividad física | deportista;n;persona que hace ejercicio físico | deportividad;n;juego limpio
+equipo;n;grupo que juega junto | equipar;v;dotar de lo necesario | equipación;n;ropa y material de un conjunto | equipamiento;n;conjunto de medios
+pelota;n;bola para jugar | pelotazo;n;golpe fuerte con la bola | pelotear;v;lanzarse la bola unos a otros | pelotera;n;riña o pelea
+balón;n;pelota grande | baloncesto;n;deporte de la canasta | balompié;n;fútbol | balonmano;n;deporte que se juega con las manos
+gol;n;tanto en el fútbol | goleador;n;el que mete muchos tantos | golear;v;meter muchos tantos al rival | goleada;n;victoria con muchos tantos
+músculo;n;tejido que mueve el cuerpo | muscular;adj;relativo al tejido que mueve el cuerpo | musculoso;adj;con mucho tejido de fuerza | musculatura;n;conjunto de tejidos que mueven el cuerpo
+cuerpo;n;conjunto físico de un ser | corporal;adj;relativo al organismo físico | corpóreo;adj;que tiene forma material | corpulento;adj;de figura grande y robusta
+cabeza;n;parte superior del cuerpo | cabezal;n;pieza que hace de parte superior | cabezudo;adj;de parte superior muy grande | encabezar;v;ir al frente de un grupo
+mano;n;parte del brazo con dedos | manual;n/adj;libro con instrucciones, o hecho sin máquinas | manejar;v;usar o controlar un aparato | manazas;n;persona torpe que rompe cosas
+pie;n;parte con la que se anda | peatón;n;persona que va andando | pedal;n;palanca que se acciona con la planta | pedestre;adj;que se hace a pie
+ojo;n;órgano de la vista | ojear;v;mirar rápido | ojeada;n;mirada rápida | ojera;n;mancha oscura debajo del párpado
+boca;n;abertura para comer y hablar | bocado;n;porción que cabe de una vez al comer | bocanada;n;golpe de aire o humo al respirar | desembocar;v;terminar en un sitio
+diente;n;pieza dura de la boca | dental;adj;relativo a las piezas de la boca | dentista;n;médico de las piezas de la boca | dentadura;n;conjunto de piezas de la boca | dentera;n;sensación molesta en las piezas de la boca
+corazón;n;órgano que bombea sangre | cordial;adj;afectuoso y amable | cordialidad;n;afecto y amabilidad | corazonada;n;presentimiento
+sangre;n;líquido rojo del cuerpo | sangrar;v;echar el líquido rojo del cuerpo | sangriento;adj;con mucho líquido rojo del cuerpo | sanguíneo;adj;relativo al líquido rojo del cuerpo
+piel;n;capa que cubre el cuerpo | pellejo;n;capa exterior de un animal | despellejar;v;quitar la capa exterior a un animal
+pelo;n;hebra que crece en la piel | peludo;adj;con mucho vello | pelaje;n;conjunto de vello de un animal | pelar;v;quitar el vello o la capa exterior
+voz;n;sonido que sale de la boca | vocal;n/adj;letra que suena sola, o de la garganta | vocear;v;dar gritos fuertes | vocerío;n;ruido de mucha gente hablando
+ropa;n;prendas para vestir | ropero;n;armario para las prendas | arropar;v;cubrir a alguien con prendas | ropaje;n;conjunto de prendas de vestir
+vestir;v;poner ropa | vestido;n;prenda que cubre el cuerpo | vestuario;n;lugar o conjunto de ropa | vestimenta;n;manera de ponerse la ropa
+zapato;n;calzado para el pie | zapatería;n;tienda de calzado | zapatero;n;el que hace o vende calzado | zapatilla;n;calzado cómodo para andar en casa
+color;n;impresión visual de la luz | colorido;n/adj;conjunto de tonos vivos, o con muchos tonos | colorear;v;dar tono a un dibujo | colorante;n;sustancia que da tono a algo
+blanco;adj;del color de la nieve | blancura;n;cualidad de lo que es como la nieve | blanquear;v;dar el tono de la nieve | blanquecino;adj;casi del tono de la nieve
+negro;adj;del color más oscuro | negrura;n;cualidad del tono más oscuro | ennegrecer;v;dar el tono más oscuro | negruzco;adj;que tira al tono más oscuro
+rojo;adj;del color de la sangre | rojizo;adj;que tira al tono de la sangre | enrojecer;v;poner del tono de la sangre | rojez;n;tono encendido en la piel
+verde;adj;del color de la hierba | verdor;n;color vivo de la hierba | verdear;v;tomar el color de la hierba | verdoso;adj;que tira al color de la hierba
+azul;adj;del color del cielo | azulado;adj;que tira al color del cielo | azulejo;n;pieza para revestir paredes
+redondo;adj;con forma de círculo | redondez;n;forma de círculo | redondear;v;dar forma de círculo | redondel;n;figura circular
+largo;adj;de mucha longitud | largura;n;longitud | alargar;v;hacer que algo mida más | largamente;adv;durante mucho tiempo
+corto;adj;de poca longitud | cortedad;n;falta de longitud o timidez | acortar;v;hacer que algo mida menos
+ancho;adj;de mucha amplitud de lado a lado | anchura;n;medida de lado a lado | ensanchar;v;hacer más amplio de lado a lado
+estrecho;adj;de poca anchura | estrechez;n;falta de anchura o de dinero | estrechar;v;hacer más angosto | estrechamente;adv;de forma muy cercana
+alto;adj;que se eleva mucho hacia arriba | altura;n;medida vertical | altitud;n;distancia vertical sobre el nivel del mar | altísimo;adj;que se eleva muchísimo
+profundo;adj;que tiene mucho fondo | profundidad;n;lo hondo | profundizar;v;ir al fondo | profundamente;adv;de forma honda
+grande;adj;de mucho tamaño | grandeza;n;cualidad de lo muy amplio | agrandar;v;hacer de mayor tamaño | grandioso;adj;que impresiona por su tamaño
+pequeño;adj;de poco tamaño | pequeñez;n;cosa sin importancia | empequeñecer;v;hacer de menor tamaño
+limpio;adj;sin suciedad | limpieza;n;cualidad de lo que no tiene suciedad | limpiar;v;quitar la suciedad | limpiador;n/adj;producto que quita la suciedad
+sucio;adj;con mugre o manchas | suciedad;n;falta de limpieza | ensuciar;v;llenar de mugre
+nuevo;adj;recién hecho o sin usar | novedad;n;cosa recién aparecida | renovar;v;dejar algo como recién hecho | novedoso;adj;lleno de cosas recientes
+viejo;adj;de mucha edad | vejez;n;edad avanzada | envejecer;v;hacerse mayor con los años | viejito;n;persona mayor
+joven;adj;de poca edad | juventud;n;etapa de la vida temprana | rejuvenecer;v;volver a parecer de pocos años | jovencito;n;persona de muy pocos años
+rico;adj;con mucho dinero o muy sabroso | riqueza;n;abundancia de bienes | enriquecer;v;hacer que alguien tenga mucho dinero | ricura;n;cosa muy agradable
+pobre;adj;con poco dinero | pobreza;n;falta de recursos | empobrecer;v;dejar sin recursos | pobretón;adj;que tiene muy pocos recursos
+dinero;n;medio para comprar | dineral;n;gran cantidad de plata | adinerado;adj;que tiene mucha plata
+banco;n;entidad de dinero o asiento | bancario;adj;relativo a la entidad del dinero | banquero;n;dueño de una entidad de dinero | banca;n;conjunto de entidades de dinero
+precio;n;valor de algo en dinero | preciar;v;dar valor a algo | apreciar;v;valorar o querer | precioso;adj;muy bonito o valioso
+caro;adj;de precio alto | carestía;n;precio alto | encarecer;v;subir el precio
+barato;adj;de precio bajo | baratura;n;precio bajo | abaratar;v;bajar el precio | baratija;n;objeto de poco valor
+gastar;v;emplear dinero | gasto;n;aquello en lo que se emplea el dinero | gastado;adj;muy usado | desgastar;v;estropear algo con el uso
+ahorrar;v;guardar dinero | ahorro;n;dinero guardado | ahorrador;n/adj;que guarda dinero para después
+comercio;n;compra y venta | comercial;adj;relativo a la compra y venta | comerciar;v;hacer negocios | comerciante;n;persona que compra y vende
+negocio;n;actividad para ganar dinero | negociar;v;tratar un asunto | negociación;n;acción de tratar un acuerdo | negociante;n;persona que hace tratos
+empresa;n;organización de negocios | empresario;n;dueño de un negocio | empresarial;adj;relativo al mundo de los negocios | emprender;v;iniciar algo difícil
+fábrica;n;lugar donde se elaboran productos | fabricar;v;hacer productos | fabricación;n;acción de elaborar productos en serie | fabricante;n;empresa que elabora productos
+máquina;n;aparato que hace un trabajo | maquinaria;n;conjunto de aparatos de trabajo | maquinar;v;tramar en secreto | maquinista;n;el que maneja un aparato grande
+tecnología;n;conjunto de saberes aplicados a las máquinas | tecnológico;adj;relativo a los aparatos avanzados | tecnólogo;n;experto en aparatos avanzados
+teléfono;n;aparato para hablar a distancia | telefónico;adj;relativo al aparato para hablar a distancia | telefonear;v;llamar a alguien a distancia | telefonía;n;sistema para hablar a distancia
+programa;n;conjunto de instrucciones o plan | programar;v;preparar una serie de instrucciones | programación;n;acción de dar instrucciones a un ordenador | programador;n;persona que crea instrucciones para máquinas
+red;n;conjunto de cosas conectadas | enredar;v;liar o mezclar sin orden | enredo;n;lío o confusión | enredadera;n;planta que trepa
+ley;n;norma obligatoria | legal;adj;conforme a las normas | legalizar;v;hacer que algo cumpla las normas | ilegal;adj;contrario a las normas | legalidad;n;condición de lo permitido por las normas
+político;n/adj;persona de los asuntos públicos, o relativo a ellos | política;n;actividad de gobernar | politizar;v;dar carácter de asuntos públicos | politólogo;n;experto en el gobierno del Estado
+votar;v;dar tu elección en unas urnas | voto;n;expresión de una elección | votación;n;acción de decidir con papeletas | votante;n;persona que da su elección en las urnas
+elegir;v;escoger entre varios | elección;n;acción de escoger entre varios | elegido;n/adj;el escogido | electoral;adj;relativo a la votación pública | electorado;n;conjunto de votantes
+presidir;v;dirigir una reunión | presidente;n;el que dirige una reunión o un país | presidencia;n;cargo del que dirige un país | presidencial;adj;relativo al que dirige el país
+juzgar;v;formar una opinión sobre algo | juez;n;el que decide en un tribunal | juicio;n;proceso ante un tribunal, o cordura | juzgado;n;lugar donde se ven las causas
+acusar;v;atribuir una falta | acusación;n;señalamiento de una falta | acusado;n/adj;el que recibe el señalamiento de una falta | acusador;n;el que señala la falta de otro
+condenar;v;imponer un castigo | condena;n;castigo impuesto | condenado;n/adj;el castigado | condenatorio;adj;que impone un castigo
+castigar;v;imponer una pena | castigo;n;pena por una falta | castigador;n/adj;que impone penas con dureza
+culpar;v;achacar una falta a alguien | culpa;n;falta cometida | culpable;n/adj;el que ha cometido una falta | culpabilidad;n;condición del que ha obrado mal
+perdonar;v;no guardar la culpa | perdón;n;acción de no guardar rencor por una falta | perdonable;adj;que se puede disculpar | imperdonable;adj;que no se puede disculpar
+robar;v;quitar lo ajeno | robo;n;acción de quitar lo ajeno | robado;adj;que ha sido quitado
+delinquir;v;cometer una acción contra la ley | delito;n;acción contra la ley | delincuente;n;el que obra contra la ley | delincuencia;n;conjunto de acciones contra la ley
+crimen;n;delito grave | criminal;n/adj;el que comete un delito grave | criminalidad;n;número de delitos graves | incriminar;v;señalar a alguien como autor de un delito grave
+paz;n;ausencia de guerra | pacífico;adj;que ama la calma y evita la guerra | pacificar;v;traer la calma tras un conflicto | apaciguar;v;calmar los ánimos
+guerra;n;lucha armada | guerrero;n/adj;el que combate en un conflicto armado | guerrilla;n;grupo armado pequeño | guerrear;v;combatir en un conflicto armado
+ejército;n;fuerzas armadas de tierra | militar;n/adj;soldado, o de las fuerzas armadas | militarizar;v;dar carácter militar a algo | milicia;n;tropa o gente de guerra
+arma;n;instrumento para atacar | armar;v;proveer de instrumentos de ataque, o montar algo | armado;adj;provisto de instrumentos de ataque | armamento;n;conjunto de instrumentos de ataque | desarmar;v;quitar los instrumentos de ataque
+sociedad;n;conjunto de personas | social;adj;relativo al conjunto de personas | socializar;v;relacionarse con otros | sociable;adj;que gusta del trato | asociar;v;unir para un fin
+familia;n;grupo de parientes | familiar;n/adj;pariente, o propio del grupo de parientes | familiaridad;n;trato de confianza | familiarizar;v;acostumbrar a algo hasta que resulte cercano
+padre;n;progenitor varón | paterno;adj;relativo al progenitor varón | paternal;adj;propio del progenitor varón | paternidad;n;condición de progenitor varón
+madre;n;progenitora | materno;adj;relativo a la progenitora | maternal;adj;propio de la progenitora | maternidad;n;condición de progenitora
+amigo;n;persona con la que hay cariño y confianza | amistad;n;afecto entre personas cercanas | amistoso;adj;propio de personas cercanas | amigable;adj;fácil de tratar
+enemigo;n/adj;contrario u opuesto | enemistar;v;hacer que dos personas se odien | enemistad;n;odio entre personas
+vecino;n/adj;el que vive cerca | vecindad;n;condición de quien vive cerca | vecindario;n;conjunto de los que viven cerca | avecinarse;v;acercarse
+gente;n;conjunto de personas | gentío;n;multitud de personas | gentil;adj;amable y cortés | gentileza;n;amabilidad
+persona;n;ser humano | personal;n/adj;conjunto de empleados o propio | personaje;n;individuo notable, o de una ficción | personalidad;n;carácter propio | personalizar;v;adaptar algo a cada individuo
+humano;n/adj;ser racional, o propio de él | humanidad;n;conjunto de todas las personas | humanitario;adj;que busca el bien de las personas | humanizar;v;dar un trato más digno a las personas
+mundo;n;todo lo que existe | mundial;adj;de todo el planeta | mundano;adj;de la vida social | mundialmente;adv;en todo el planeta
+rey;n;monarca varón | reina;n;monarca mujer | reino;n;territorio que gobierna un monarca | reinar;v;gobernar como monarca | realeza;n;dignidad del monarca y su familia
+noble;n/adj;persona de alto rango o generoso | nobleza;n;clase alta, o generosidad de espíritu | ennoblecer;v;dar dignidad o categoría
+escuela;n;lugar donde se enseña | escolar;n/adj;alumno, o propio del centro de enseñanza | escolarizar;v;inscribir a un niño en un centro de estudios | escolaridad;n;periodo de estudios
+colegio;n;centro de enseñanza | colegial;n/adj;alumno, o del centro de enseñanza | colegiado;n/adj;miembro de una asociación profesional
+universidad;n;centro de estudios superiores | universitario;n/adj;estudiante, o del centro de estudios superiores | universal;adj;de todos
+profesor;n;el que enseña | profesorado;n;conjunto de docentes | profesoral;adj;propio del que da clases
+examen;n;prueba de conocimientos | examinar;v;poner a prueba los conocimientos | examinador;n;el que pone la prueba | examinando;n;el que se presenta a la prueba
+aprobar;v;pasar una prueba | aprobado;n/adj;nota de pasar | aprobación;n;acción de dar por válido | reprobar;v;no dar por bueno un examen
+suspender;v;no aprobar o interrumpir | suspenso;n/adj;nota de no aprobar o pendiente | suspensión;n;acción de interrumpir o colgar algo
+libro;n;conjunto de hojas escritas | librería;n;tienda de obras impresas | librero;n;el que vende obras impresas | libreta;n;cuaderno pequeño
+página;n;cara de una hoja | paginar;v;poner número a cada hoja | paginación;n;numeración de las hojas
+palabra;n;unidad de significado | palabrota;n;término grosero | palabrería;n;exceso de charla sin contenido
+letra;n;signo de un alfabeto | literal;adj;al pie de un texto, tal cual | deletrear;v;decir uno a uno los signos de una palabra | letrero;n;cartel con signos escritos
+lengua;n;idioma u órgano de la boca | lingüístico;adj;relativo al idioma | lenguaje;n;forma de comunicar | lingüista;n;experto en los idiomas
+traducir;v;pasar de una lengua a otra | traducción;n;acción de pasar de un idioma a otro | traductor;n;el que pasa un texto a otro idioma | traducible;adj;que se puede pasar a otro idioma
+significar;v;querer decir | significado;n;sentido que tiene algo | significativo;adj;que tiene importancia | significación;n;sentido de algo
+preguntar;v;pedir una respuesta | pregunta;n;aquello que se plantea para saber | preguntón;adj;que plantea muchas dudas
+responder;v;dar una contestación | respuesta;n;lo que se contesta | responsable;n/adj;que da cuenta de sus actos | responsabilidad;n;deber de dar cuenta de algo
+dialogar;v;hablar entre varios | diálogo;n;conversación entre personas | dialogante;adj;abierto a la conversación
+discutir;v;hablar sobre un desacuerdo | discusión;n;intercambio de opiniones enfrentadas | discutible;adj;que admite opiniones distintas | indiscutible;adj;que no admite duda
+debatir;v;discutir un tema en orden | debate;n;discusión ordenada | debatible;adj;que se puede poner en cuestión
+proponer;v;presentar una idea | propuesta;n;idea que se ofrece | proponente;n;el que ofrece una idea
+sugerir;v;insinuar una idea | sugerencia;n;lo que se sugiere | sugerente;adj;que sugiere | sugestivo;adj;que atrae
+aconsejar;v;dar una recomendación | consejo;n;opinión que se ofrece | consejero;n;el que da recomendaciones | aconsejable;adj;que conviene hacer
+mandar;v;dar órdenes o enviar | mando;n;autoridad para dar órdenes | mandato;n;orden o encargo | mandón;adj;que da muchas órdenes | comandante;n;jefe militar
+obedecer;v;cumplir una orden | obediencia;n;acción de cumplir las órdenes | obediente;adj;que cumple lo que se le ordena | desobedecer;v;no cumplir las órdenes
+permitir;v;dejar hacer | permiso;n;autorización para algo | permisivo;adj;que deja hacer casi todo | permisible;adj;que se puede consentir
+prohibir;v;no dejar hacer | prohibición;n;acción de impedir algo por norma | prohibido;adj;no permitido | prohibitivo;adj;que impide por lo caro
+obligar;v;forzar a hacer | obligación;n;lo que se debe hacer | obligatorio;adj;que es forzoso cumplir | obligado;adj;forzado a algo
+deber;v;tener obligación | deuda;n;aquello que se tiene que pagar | deudor;n;el que tiene que pagar algo | endeudar;v;cargar a alguien de compromisos de pago
+poder;n;capacidad o autoridad | poderoso;adj;con mucha fuerza o autoridad | apoderar;v;dar autoridad a alguien | poderío;n;gran fuerza o dominio
+arte;n;creación de belleza | artístico;adj;relativo a la creación de belleza | artista;n;el que crea obras de belleza | artesanía;n;trabajo hecho a mano | artesano;n;el que hace objetos a mano
+música;n;arte de los sonidos | musical;adj;relativo al sonido armónico | músico;n;el que compone o toca sonidos | musicalidad;n;cualidad de lo que suena bien
+poesía;n;arte de los versos | poético;adj;relativo a los versos | poeta;n;el que compone versos | poetizar;v;componer versos
+novela;n;obra narrativa larga | novelar;v;contar algo como un relato largo | novelista;n;el que escribe relatos largos | novelesco;adj;propio de un relato de ficción
+teatro;n;arte de representar obras | teatral;adj;relativo a la escena | teatralidad;n;carácter exagerado y de escena
+cine;n;arte de las películas | cinematográfico;adj;relativo a las películas | cineasta;n;el que hace películas
+historia;n;relato del pasado | histórico;adj;relativo al pasado | historiador;n;el que estudia el pasado | historieta;n;relato corto con dibujos
+cultura;n;conjunto de saberes de un pueblo | cultural;adj;relativo a los saberes de un pueblo | culto;n/adj;homenaje religioso o muy instruido | culturizar;v;dar saberes y refinamiento
+tradición;n;costumbre transmitida | tradicional;adj;propio de las costumbres heredadas | tradicionalmente;adv;según las costumbres heredadas | tradicionalista;n/adj;muy apegado a las costumbres heredadas
+fiesta;n;celebración alegre | festejo;n;acto para celebrar algo | festejar;v;celebrar algo con alegría | festivo;adj;propio de un día de celebración | festival;n;serie de actos de celebración
+regalo;n;lo que se da sin cobrar | regalar;v;dar algo sin cobrar | regalado;adj;dado gratis o muy barato
+premio;n;recompensa por un mérito | premiar;v;dar una recompensa | premiado;n/adj;el que recibe una recompensa
+número;n;signo que expresa cantidad | numeral;n/adj;que expresa una cantidad | numerar;v;poner cifras en orden | numeroso;adj;que es mucho | numérico;adj;relativo a las cifras
+parte;n;porción de un todo | partir;v;dividir o marcharse | partición;n;acción de dividir en trozos | partícula;n;trozo muy pequeño | repartir;v;dar algo en trozos a varios
+entero;adj;completo, sin partes | entereza;n;firmeza de ánimo | enteramente;adv;por completo | integridad;n;estado de lo que está completo
+medio;n/adj;mitad o que está en el centro | mediar;v;ponerse entre dos partes | mediador;n;el que se pone entre dos partes | mediación;n;acción de ponerse entre dos bandos | mediano;adj;ni grande ni pequeño
+doble;n/adj;dos veces algo | doblar;v;hacer dos veces algo, o torcer | doblez;n;pliegue, o falsedad de carácter | duplicar;v;hacer que algo valga por dos
+total;n/adj;suma completa o entero | totalidad;n;el todo | totalizar;v;sumar hasta el conjunto completo | totalmente;adv;por completo
+lleno;adj;con toda su capacidad | llenar;v;ocupar por completo | llenado;n;acción de ocupar todo el espacio | rellenar;v;volver a ocupar el hueco
+vacío;n/adj;sin nada dentro | vaciar;v;dejar sin contenido | vaciado;n;acción de dejar sin contenido | vacuidad;n;falta de contenido
+débil;adj;con poca fuerza | debilidad;n;falta de fuerza | debilitar;v;quitar fuerza | débilmente;adv;con poca fuerza
+duro;adj;difícil de romper | dureza;n;cualidad de lo que no se rompe fácilmente | endurecer;v;poner rígido y firme | durísimo;adj;muy difícil de partir
+blando;adj;que cede al tacto | blandura;n;cualidad de lo que cede al tacto | ablandar;v;poner tierno lo que cede al tacto
+seco;adj;sin agua | sequía;n;falta de lluvia | secar;v;quitar la humedad | sequedad;n;falta de humedad
+mojar;v;cubrir de líquido | mojado;adj;con agua | remojar;v;poner en agua | remojo;n;acción de meter algo en líquido
+húmedo;adj;algo mojado | humedad;n;agua en el aire | humedecer;v;poner algo un poco mojado
+dulce;n/adj;golosina o de sabor de azúcar | dulzura;n;cualidad del sabor del azúcar | endulzar;v;dar el sabor del azúcar | dulcemente;adv;de forma suave y agradable
+amargo;adj;de sabor áspero | amargura;n;sabor áspero, o gran pena | amargar;v;dar un sabor áspero, o causar pena
+salado;adj;con el sabor del agua del mar | sal;n;sustancia blanca que sazona la comida | salar;v;echar el condimento blanco a la comida | salazón;n;conserva hecha con ese condimento
+pan;n;alimento de harina cocida | panadería;n;tienda donde se hace masa cocida | panadero;n;el que hace la masa de harina | panecillo;n;pieza pequeña de masa de harina
+leche;n;líquido blanco nutritivo | lechero;n/adj;el que reparte el líquido blanco de la vaca | lechería;n;tienda del líquido blanco de la vaca | lechoso;adj;parecido al líquido blanco de la vaca
+carne;n;parte comestible del animal | carnicería;n;tienda donde venden filetes | carnicero;n;el que vende filetes y chuletas | carnoso;adj;con mucha pulpa o tejido
+azúcar;n;sustancia dulce | azucarar;v;echar el polvo dulce a algo | azucarero;n;recipiente para el polvo dulce | azucarado;adj;con mucho polvo dulce
+café;n;bebida oscura y estimulante | cafetería;n;local donde se toma una bebida oscura | cafetera;n;aparato para hacer la bebida oscura | cafeína;n;sustancia que espabila en esa bebida
+hambre;n;ganas de comer | hambriento;adj;que tiene muchas ganas de comer | hambruna;n;falta grave y general de comida
+gordo;adj;con mucha grasa | gordura;n;exceso de grasa | engordar;v;coger mucha grasa | gordito;adj;un poco relleno de grasa
+delgado;adj;de poca carne | delgadez;n;cualidad de tener poca carne | adelgazar;v;perder carne y volverse fino
+feliz;adj;que tiene dicha | felicidad;n;estado de gran dicha | felicitar;v;dar la enhorabuena a alguien | felizmente;adv;con dicha y contento
+fortuna;n;suerte o riqueza | afortunado;adj;con buena suerte | infortunio;n;mala suerte | fortuito;adj;que ocurre por azar
+suerte;n;fortuna favorable o azar | sortear;v;decidir algo al azar | sorteo;n;acción de repartir al azar
+falso;adj;que no es verdadero | falsedad;n;cualidad de lo que no es verdad | falsificar;v;hacer una copia engañosa | falsificación;n;copia hecha para engañar
+cierto;adj;seguro y verdadero | certeza;n;seguridad total | certidumbre;n;seguridad total sobre algo | incierto;adj;no seguro
+seguro;adj;sin peligro o cierto | seguridad;n;estado de estar a salvo | asegurar;v;dar garantía de algo | inseguro;adj;que no está a salvo o duda
+posible;adj;que puede ser | posibilidad;n;condición de lo que puede pasar | posibilitar;v;hacer que algo pueda pasar | imposible;adj;que no puede ser
+necesario;adj;que hace falta | necesidad;n;lo que hace falta | necesitar;v;tener falta de algo | innecesario;adj;que no hace falta
+útil;adj;que sirve | utilidad;n;provecho de algo | utilizar;v;hacer uso de algo | inútil;adj;que no sirve
+usar;v;emplear algo | uso;n;acción de emplear algo | usuario;n;el que emplea un servicio | usado;adj;ya utilizado | desusado;adj;que ya no se emplea
+servir;v;resultar útil para algo | servicio;n;ayuda que se presta a alguien | servidor;n;el que sirve | servil;adj;que se somete demasiado
+valer;v;tener cierto precio o mérito | valor;n;precio o coraje | valioso;adj;de mucho precio o mérito | valorar;v;dar precio o aprecio a algo | valeroso;adj;con mucho coraje
+difícil;adj;que cuesta hacer | dificultad;n;aquello que hace algo complicado | dificultar;v;poner trabas a algo | dificultoso;adj;lleno de trabas
+fácil;adj;que cuesta poco | facilidad;n;cualidad de lo que cuesta poco | facilitar;v;hacer que algo cueste poco | fácilmente;adv;sin esfuerzo
+simple;adj;sin complicación | simpleza;n;cosa sin importancia | simplificar;v;hacer algo más sencillo | simplicidad;n;cualidad de lo sencillo
+complicar;v;hacer difícil | complicación;n;dificultad añadida | complicado;adj;difícil de entender
+bueno;adj;que obra bien y con nobleza | bondad;n;inclinación a obrar bien | bondadoso;adj;lleno de nobleza de corazón
+malo;adj;que carece de bondad | maldad;n;inclinación a hacer daño | malicia;n;astucia para hacer daño | malicioso;adj;con astucia para el daño
+amable;adj;atento y cariñoso | amabilidad;n;cualidad de quien trata bien | amablemente;adv;con buen trato y cortesía
+cortés;adj;atento y educado | cortesía;n;trato amable | descortés;adj;que trata sin educación
+valiente;adj;con valor | valentía;n;cualidad de quien no teme | envalentonar;v;dar valor
+cobarde;n/adj;sin valor | cobardía;n;falta de valor | acobardar;v;quitar el valor
+listo;adj;inteligente o preparado | listillo;n/adj;el que se cree muy espabilado | alistar;v;apuntar a alguien en un registro
+inteligente;adj;con gran capacidad de entender | inteligencia;n;capacidad de entender | inteligible;adj;que se puede entender
+tonto;n/adj;de poca inteligencia | tontería;n;dicho o hecho sin sentido | atontar;v;dejar a alguien sin viveza
+loco;n/adj;que ha perdido la razón | locura;n;falta de juicio | enloquecer;v;perder o hacer perder la razón | loquero;n;el que cuida a los perturbados
+serio;adj;sin bromas | seriedad;n;cualidad de quien no bromea | seriamente;adv;sin bromas ni ligereza
+gracioso;adj;que hace reír | gracia;n;lo que hace reír o don | agraciado;adj;con encanto, o afortunado | desgracia;n;suceso adverso
+reír;v;mostrar gozo con la cara | risa;n;gesto de alegría con sonidos | risueño;adj;que ríe con facilidad | sonreír;v;hacer un leve gesto de agrado
+llorar;v;echar lágrimas | llanto;n;salida de lágrimas por pena | lloroso;adj;con ganas de soltar lágrimas | llorón;n/adj;que suelta lágrimas a menudo
+brillar;v;despedir luz | brillo;n;luz que despide algo | brillante;n/adj;que despide luz, o un diamante | abrillantar;v;sacar lustre a algo
+arder;v;estar en llamas | ardor;n;calor intenso | ardiente;adj;que está en llamas
+fuego;n;calor y luz de lo que arde | fogata;n;llama al aire libre | fogón;n;sitio para prender las llamas | fogoso;adj;muy ardiente
+quemar;v;destruir con fuego | quemadura;n;herida por fuego | quemado;adj;dañado por el fuego | requemar;v;pasar algo demasiado por las llamas
+apagar;v;quitar el fuego o la luz | apagado;adj;sin luz o sin ánimo | apagón;n;corte de luz
+humo;n;gas que sale del fuego | humear;v;echar el gas que sale del fuego | humareda;n;gran cantidad de ese gas | ahumar;v;dar sabor con el gas del fuego
+sonar;v;producir un ruido | sonido;n;lo que se oye | sonoro;adj;que suena mucho | sonajero;n;juguete que suena
+ruido;n;sonido molesto | ruidoso;adj;que hace mucho estruendo | ruidosamente;adv;con mucho estruendo
+silencio;n;falta de ruido | silencioso;adj;sin ruido | silenciar;v;hacer callar | silenciosamente;adv;sin hacer ruido
+callar;v;no hablar | callado;adj;que habla poco | acallar;v;hacer que alguien se quede en silencio
+llevar;v;transportar algo | llevadero;adj;que se soporta bien | conllevar;v;traer consigo
+traer;v;llevar hacia aquí | atraer;v;tirar de algo hacia sí | atracción;n;fuerza que tira hacia sí | atractivo;n/adj;encanto que tira de la gente
+recibir;v;tomar lo que se da | recibo;n;comprobante de pago | recepción;n;acción de tomar lo que llega | receptor;n;el que toma lo que se manda
+enviar;v;hacer llegar algo | envío;n;acción de hacer llegar algo | enviado;n;el que se manda a un lugar | reenviar;v;volver a mandar algo
+mostrar;v;dejar ver | muestra;n;aquello que se enseña o exhibe | mostrador;n;mesa donde se exhiben los productos | demostrar;v;probar con hechos
+esconder;v;poner algo oculto | escondite;n;sitio para ocultarse | escondido;adj;oculto | escondrijo;n;rincón para ocultar algo
+buscar;v;tratar de encontrar | búsqueda;n;acción de tratar de hallar algo | buscador;n;el que trata de hallar, o programa para ello | rebuscar;v;tratar de hallar con mucho esmero
+encontrar;v;dar con lo que se busca | encuentro;n;acción de dar con alguien | reencuentro;n;nuevo hallazgo tras un tiempo
+cubrir;v;poner algo encima | cubierta;n;aquello que tapa algo | cubierto;n/adj;utensilio de mesa o tapado | recubrir;v;volver a tapar por encima
+romper;v;hacer pedazos | rotura;n;acción de partir algo en trozos | roto;adj;partido en pedazos | rompedor;adj;que va contra lo establecido
+arreglar;v;poner en orden o reparar | arreglo;n;acción de poner en orden o reparar | arreglado;adj;bien puesto o reparado | desarreglar;v;deshacer el orden de algo
+reparar;v;arreglar lo roto | reparación;n;acción de arreglar lo estropeado | reparable;adj;que se puede arreglar | irreparable;adj;que no tiene arreglo
+pegar;v;unir con cola, o dar un golpe | pegamento;n;sustancia que une las cosas | pegajoso;adj;que se adhiere con facilidad | pegatina;n;papel que se adhiere a una superficie
+atar;v;sujetar con nudos | atadura;n;aquello con lo que se sujeta | desatar;v;soltar lo que estaba sujeto | atado;n/adj;conjunto sujeto, o bien amarrado
+colgar;v;sujetar por lo alto | colgante;n/adj;adorno que cuelga o que pende | colgado;adj;suspendido | descolgar;v;bajar algo que estaba suspendido
+abrazar;v;rodear con los brazos | abrazo;n;acción de rodear con los brazos | abrazado;adj;rodeado con los brazos
+besar;v;juntar los labios como muestra de cariño | beso;n;caricia con los labios | besucón;adj;que junta los labios a menudo
+brazo;n;parte del cuerpo del hombro a la mano | brazalete;n;adorno que se pone en la muñeca | brazada;n;movimiento de los miembros al nadar
+dedo;n;parte final de la mano | dedal;n;funda para proteger al coser | digital;adj;de las partes de la mano, o de números
+rodilla;n;articulación de la pierna | arrodillar;v;poner las piernas dobladas en el suelo | rodillera;n;protección para la articulación de la pierna
+espalda;n;parte de atrás del cuerpo | respaldo;n;apoyo o parte trasera de un asiento | respaldar;v;dar apoyo
+cara;n;parte delantera de la cabeza | careta;n;máscara que oculta el rostro | encarar;v;afrontar algo | descarado;adj;sin vergüenza
+nariz;n;órgano del olfato | narigudo;adj;de gran apéndice en la cara | narizota;n;apéndice muy grande en la cara
+oreja;n;parte externa del oído | orejera;n;pieza que tapa el órgano del oído | orejudo;adj;de grandes órganos para oír
+oído;n;sentido para percibir sonidos | oír;v;percibir sonidos | oyente;n;persona que oye o atiende | desoír;v;no hacer caso
+cuello;n;parte que une la cabeza y el cuerpo | collar;n;adorno que rodea la garganta | degollar;v;cortar por la garganta
+hueso;n;pieza dura del esqueleto | óseo;adj;relativo al esqueleto | huesudo;adj;con el esqueleto muy marcado | deshuesar;v;quitar el esqueleto a la carne
+cerebro;n;órgano del pensamiento | cerebral;adj;relativo al órgano del pensamiento | descerebrado;adj;sin juicio
+digerir;v;transformar la comida en el cuerpo | digestión;n;transformación de la comida en el cuerpo | digestivo;adj;que ayuda a asimilar la comida | indigestión;n;mala asimilación de la comida
+respirar;v;tomar y soltar aire | respiración;n;acción de tomar y soltar aire | respiratorio;adj;relativo a la toma de aire | respiro;n;descanso breve
+idea;n;representación mental | ideal;n/adj;modelo perfecto o perfecto | idear;v;formar un plan en la mente | ideario;n;conjunto de pensamientos de alguien
+mente;n;capacidad de pensar | mental;adj;relativo a la actividad del cerebro | mentalidad;n;modo de pensar | mentalizar;v;preparar el ánimo para algo
+razón;n;facultad de pensar o motivo | razonar;v;pensar con lógica | razonable;adj;conforme al buen juicio | razonamiento;n;encadenado de ideas con lógica
+lógica;n;ciencia del razonamiento correcto | lógico;n/adj;experto en el buen razonar, o coherente | ilógico;adj;sin coherencia ni sentido | lógicamente;adv;de forma coherente
+memoria;n;capacidad de recordar | memorizar;v;grabar algo en la mente | memorable;adj;digno de recordar | memorización;n;acción de grabar datos en la mente
+atención;n;acción de fijarse en algo | atender;v;fijarse o hacerse cargo de algo | atento;adj;que atiende | desatento;adj;que no atiende
+concentrar;v;fijar la atención | concentración;n;acción de fijar toda la mente en algo | concentrado;n/adj;muy atento o reducido
+distraer;v;apartar la atención | distracción;n;falta de atención | distraído;adj;poco atento
+curioso;adj;que quiere saber o raro | curiosidad;n;deseo de saber | curiosear;v;fisgar por ganas de saber
+voluntad;n;facultad de querer | voluntario;n/adj;que hace algo por propia decisión | involuntario;adj;sin querer | voluntarioso;adj;con mucho empeño y ganas
+capaz;adj;que puede hacer algo | capacidad;n;aptitud para algo | capacitar;v;preparar a alguien para algo | incapaz;adj;que no puede
+hábil;adj;que hace las cosas bien | habilidad;n;destreza para algo | habilitar;v;hacer apto | inhábil;adj;sin destreza para algo
+torpe;adj;que actúa con poca habilidad | torpeza;n;falta de habilidad | entorpecer;v;poner trabas o volver difícil
+esfuerzo;n;empleo de fuerza o ánimo | esforzar;v;emplear fuerzas | esforzado;adj;que se emplea a fondo
+ánimo;n;energía del espíritu | animar;v;dar aliento o valor a alguien | animado;adj;con energía y vida, o con movimiento | animación;n;acción de dar vida y alegría | desanimar;v;quitar el aliento y las ganas
+gana;n;deseo de hacer algo | ganoso;adj;lleno de deseo por algo | desgana;n;falta de deseo o de apetito
+norma;n;regla que se sigue | normal;adj;conforme a lo habitual | normalizar;v;hacer que algo sea habitual | normativa;n;conjunto de reglas fijadas | anormal;adj;que se sale de lo habitual
+regla;n;norma o instrumento para medir | reglar;v;someter algo a unas pautas | reglamento;n;conjunto de pautas de una actividad | reglamentario;adj;conforme a las pautas fijadas
+modelo;n;ejemplo a seguir | modelar;v;dar forma | modélico;adj;que sirve de ejemplo perfecto
+ejemplo;n;caso que sirve de modelo | ejemplar;n/adj;una copia, o que sirve de modelo | ejemplificar;v;mostrar algo con casos concretos
+copiar;v;hacer una reproducción igual | copia;n;reproducción de algo | copión;n/adj;el que reproduce lo de otro | fotocopia;n;reproducción hecha con luz
+grupo;n;conjunto de personas o cosas | agrupar;v;reunir en un conjunto | agrupación;n;conjunto de personas reunidas | grupal;adj;relativo al conjunto de personas
+reunir;v;juntar en un lugar | reunión;n;encuentro de varias personas | reunido;adj;que está junto
+línea;n;trazo largo y fino | lineal;adj;relativo a los trazos rectos | alinear;v;poner cosas en fila recta | delinear;v;trazar rectas y contornos
+punto;n;señal pequeña y redonda | puntual;adj;que llega a la hora | puntería;n;habilidad para acertar | puntuar;v;poner notas, o marcar el tanteo
+señal;n;marca que avisa | señalar;v;marcar o indicar | señalización;n;conjunto de marcas que avisan | señalado;adj;muy destacado
